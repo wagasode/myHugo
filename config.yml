@@ -24,12 +24,11 @@ makePath: tolower
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: wagasode
-  description: "Blog of wagasode, a software engineer."
-  keywords: [Blog, Portfolio, PaperMod]
+  description: "Blog of wagasode, a origin seeker."
+  keywords: [Blog, Portfolio, PaperMod, Shadowverse, ShadowverseWorldsBeyond]
   author: wagasode
-  # author: ["Me", "You"] # multiple authors
   DateFormat: "2025-06-08"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -57,7 +56,7 @@ params:
     safari_pinned_tab: "Thinking_Face_Emoji_large.png"
 
   label:
-    text: "🏠 Home"
+    text: "🔥 袖's ZK"
     # icon: Thinking_Face_Emoji_large.png
     iconHeight: 35
 
