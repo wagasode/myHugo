@@ -1,0 +1,17 @@
+{{- $url := .Destination | safeURL -}}
+{{- $isExternal := hasPrefix $url "http" -}}
+{{- $isInternal := and (not $isExternal) (ne (getenv "HUGO_ENV") "production") -}}
+
+<a href="{{ $url | safeURL }}"
+  {{- if $isExternal }}
+    class="custom-link" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  {{- end -}}
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if strings.HasPrefix $url "#" }} aria-label="{{ i18n "bookmark" (substr $url 1) }}"{{ end -}}>
+  {{- .Text | safeHTML -}}
+  {{- if and $isExternal (not (findRE `\.(png|jpg|jpeg|gif|svg|webp|ico)` $url)) -}}
+    <span class="external-link-icon">↗</span>
+  {{- end -}}
+</a>
