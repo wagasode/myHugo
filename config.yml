@@ -64,7 +64,7 @@ params:
 
   socialIcons:
     - name: twitter
-      url:  "https://x.com/origin_seeker"
+      url: "https://x.com/origin_seeker"
     - name: note
       url: "https://note.com/wagasode"
     - name: github

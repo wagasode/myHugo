@@ -1,5 +1,6 @@
 ---
 title: "Memo - カバンターンは全処理を狙おう！"
+aliases: ["/On the Carbuncle turn, aim to clear the entire board./"]
 date: 2025-06-08
 draft: false
 ---
