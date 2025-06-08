@@ -3,8 +3,6 @@ title: "Memo - RGWテンポ純共鳴Nm"
 date: 2025-06-08
 draft: false
 ---
-### コンセプト
-
 ### 参考動画
 - [OTKも可能！？「極天竜鳴」共鳴ネメシスのデッキ解説【シャドバ/Shadowverse】](https://www.youtube.com/watch?v=_327o-Qq5po)
 
