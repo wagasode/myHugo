@@ -17,6 +17,9 @@ minify:
   disableXML: true
   minifyOutput: true
 
+removePathAccents: true
+makePath: tolower
+
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: wagasode

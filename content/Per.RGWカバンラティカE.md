@@ -1,6 +1,5 @@
 ---
 title: "Memo - RGWカバンラティカE"
-aliases: ["/rgw-carbuncle-radica-e/"]
 date: 2025-06-08
 draft: false
 ---
