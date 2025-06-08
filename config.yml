@@ -64,7 +64,12 @@ params:
 
   socialIcons:
     - name: twitter
+      url:  "https://x.com/origin_seeker"
+    - name: note
+      url: "https://note.com/wagasode"
     - name: github
+      url: "https://github.com/wagasode"
+
 
   cover:
     hidden: true # hide everywhere but not in structured data
