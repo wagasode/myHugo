@@ -8,6 +8,7 @@ theme: PaperMod
 
 enableEmoji: true
 enableRobotsTXT: true
+enableGitInfo: true
 
 buildDrafts: false
 buildFuture: false
@@ -36,6 +37,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
+  showBacklinks: true
 
   disableSpecial1stPost: false
   disableScrollToTop: false

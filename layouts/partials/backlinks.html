@@ -1,0 +1,78 @@
+{{ $currentPageLink := .RelPermalink }}
+{{ $currentPageTitle := .Title }}
+{{ $currentPageFile := .File.BaseFileName }}
+{{ $backlinks := slice }}
+
+{{ $fileWithoutPer := replaceRE `^Per\.\s*` "" $currentPageFile }}
+{{ $patterns := slice }}
+
+{{ range .Site.AllPages }}
+  {{ $content := .RawContent }}
+  {{ if $content }}
+      {{ $hasMatch := false }}
+      {{ $titlePattern := printf `"%s"` $fileWithoutPer }}
+      {{ $patterns = $patterns | append $titlePattern }}
+
+      {{ range $i, $pattern := $patterns }}
+          {{ $found := false }}
+          {{ $found = in $content $pattern }}
+          {{ if $found }}
+            {{ $hasMatch = true }}
+          {{ end }}
+        {{ end }}
+
+      {{ if and (ne .RelPermalink $currentPageLink) $hasMatch }}
+        {{ $backlinks = $backlinks | append . }}
+      {{ else }}
+      {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $backlinks) 0 }}
+  <div id="backlinks-sidebar" class="backlinks-sidebar">
+    <div class="backlinks-header">
+      <h3>🔗 バックリンク</h3>
+      <button id="toggle-backlinks" class="toggle-backlinks">×</button>
+    </div>
+    <div class="backlinks-content">
+      <ul>
+        {{ range $backlinks }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ replaceRE `^Memo\s*-\s*` "" .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+
+  <button id="backlinks-toggle" class="backlinks-toggle">🔗</button>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const sidebar = document.getElementById('backlinks-sidebar');
+      const toggleBtn = document.getElementById('backlinks-toggle');
+      const closeBtn = document.getElementById('toggle-backlinks');
+      
+      if (toggleBtn && sidebar && closeBtn) {
+        // トグルボタンで表示/非表示
+        toggleBtn.addEventListener('click', function(e) {
+          e.stopPropagation();
+          sidebar.classList.toggle('visible');
+        });
+        
+        // 閉じるボタン
+        closeBtn.addEventListener('click', function(e) {
+          e.stopPropagation();
+          sidebar.classList.remove('visible');
+        });
+        
+        // サイドバー外をクリックで閉じる
+        document.addEventListener('click', function(e) {
+          if (!sidebar.contains(e.target) && e.target !== toggleBtn) {
+            sidebar.classList.remove('visible');
+          }
+        });
+      }
+    });
+  </script>
+{{ end }}
