@@ -1,0 +1,17 @@
+{{ $targetFileNamePart := .Get 0 }}
+{{ $linkText := .Get 1 }}
+{{ $page := .Site.GetPage (printf "Per.%s.md" $targetFileNamePart) }}
+
+{{ if not $linkText }}
+  {{ if $page }}
+    {{ $linkText = $page.Title }}
+  {{ else }}
+    {{ $linkText = $targetFileNamePart }} {{/* ページが見つからず、表示テキストも指定されなかった場合の代替テキスト */}}
+  {{ end }}
+{{ end }}
+
+{{ if $page }}
+  <a href="{{ $page.RelPermalink }}" class="custom-link">{{ $linkText }}</a>
+{{ else }}
+  <span style="color: red;">リンクエラー: Per.{{ $targetFileNamePart }}.md が見つかりません。(表示テキスト: "{{ $linkText }}")</span>
+{{ end }}

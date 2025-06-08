@@ -22,9 +22,9 @@ params:
   title: wagasode
   description: "Blog of wagasode, a software engineer."
   keywords: [Blog, Portfolio, PaperMod]
-  author: Kohei Okamoto
+  author: wagasode
   # author: ["Me", "You"] # multiple authors
-  DateFormat: "January 2, 2006"
+  DateFormat: "2025-06-08"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 

@@ -1,6 +1,43 @@
 {{ define "main" }}
-  <main>
-    <a href="{{ "Hugoサンプルページ/" | relURL }}">Hugoサンプルページへ</a>
-    {{ .Content }}
+  <main class="homepage-main">
+    <header class="homepage-header">
+      <h1>wagasode's zettelkasten</h1>
+      <p>このサイトは、我袖（wagasode）が日々生産しているメモを公開していく場所として作成してみました。<br>
+      ※全て個人的なメモであり、内容の正確性は保証しかねます。</p>
+    </header>
+
+    <section class="memo-categories">
+      <!-- Shadowverse Category Card -->
+      <div class="category-card">
+        <div class="card-header">
+          <h2>Shadowverse</h2>
+        </div>
+        <div class="card-content">
+          <h3>RGW環境</h3>
+          <ul>
+            <li><a class="custom-link" href="{{ "Per.RGWカバンラティカE/" | relURL }}">Memo - RGWカバンラティカE</a></li>
+            <li><a class="custom-link" href="{{ "Per.RGWテンポ純共鳴ネメシス/" | relURL }}">Memo - RGWテンポ純共鳴ネメシス</a></li>
+          </ul>
+          <!-- Future Shadowverse sub-categories or links can go here -->
+        </div>
+      </div>
+
+      <!-- 他のカテゴリカードが必要な場合は、ここに同様の形式で追加できます -->
+      <!-- 例:
+      <div class="category-card">
+        <div class="card-header">
+          <h2>別のゲームやトピック</h2>
+        </div>
+        <div class="card-content">
+          <p>ここに内容...</p>
+        </div>
+      </div>
+      -->
+    </section>
+    {{ if .Content }}
+    <article class="homepage-content">
+      {{ .Content }}
+    </article>
+    {{ end }}
   </main>
 {{ end }}

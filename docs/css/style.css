@@ -1,0 +1,153 @@
+a.custom-link {
+  color: #22c55e;
+  text-decoration: none; /* デフォルトの下線を無効化 */
+  border-bottom: 1px solid #22c55e; /* borderで下線を描画 */
+  transition: color 0.2s, background 0.2s, border-color 0.2s;
+}
+a.custom-link:hover {
+  color: #15803d;
+  background: #f0fdf4;
+  font-weight: bold;
+  text-decoration: none; /* デフォルトの下線を無効化 */
+  border-bottom: 1px solid #15803d; /* ホバー時のborder色 */
+  border-radius: 4px;
+  padding: 2px 4px;
+}
+
+/* カラースキーム対応のCSS変数 */
+:root {
+  --custom-link: #22c55e;
+  --custom-link-hover: #15803d;
+  --custom-link-background: #f0fdf4;
+  --homepage-header-title: #333;
+  --homepage-header-text: #666;
+  --category-card-header: #444;
+  --category-card-h3: #555;
+}
+@media (prefers-color-scheme: dark) {
+  html {
+    --custom-link: #22c55e;
+    --custom-link-hover: #15803d;
+    --custom-link-background: #f0fdf4;
+    --homepage-header-title: #f1f1f1;
+    --homepage-header-text: #bbbbbb;
+    --category-card-header: #e0e0e0;
+    --category-card-h3: #cccccc;
+  }
+}
+
+/* Homepage Layout Styles */
+.homepage-main {
+  max-width: 960px;
+  margin: 20px auto;
+  padding: 0 15px;
+}
+
+.homepage-header {
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 20px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.homepage-header h1 {
+  font-size: 2.2em;
+  margin-bottom: 0.5em;
+  color: var(--homepage-header-title);
+}
+
+.homepage-header p {
+  font-size: 1em;
+  color: var(--homepage-header-text);
+  line-height: 1.6;
+}
+
+.memo-categories {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+  padding: 20px 0;
+}
+
+.category-card {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  display: flex;
+  flex-direction: column;
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
+}
+
+.category-card .card-header {
+  background-color: #f9f9f9;
+  padding: 15px 20px;
+  border-bottom: 1px solid #e0e0e0;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.category-card .card-header h2 {
+  margin: 0;
+  font-size: 1.4em;
+  color: #444;
+}
+
+.category-card .card-content {
+  padding: 15px 20px 20px;
+  flex-grow: 1;
+}
+
+.category-card .card-content h3 {
+  font-size: 1.1em;
+  color: #555;
+  margin-top: 0;
+  margin-bottom: 10px;
+  border-bottom: 1px dashed #eee;
+  padding-bottom: 5px;
+}
+
+.category-card .card-content ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.category-card .card-content ul li {
+  margin-bottom: 8px;
+}
+
+.category-card .card-content ul li:last-child {
+  margin-bottom: 0;
+}
+
+.category-card .custom-link {
+  display: inline-block;
+}
+
+.homepage-content {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+}
+
+/* ダークモード対応：文字色の上書き */
+@media (prefers-color-scheme: dark) {
+  .homepage-header h1 {
+    color: #f1f1f1;
+  }
+  .homepage-header p {
+    color: #bbbbbb;
+  }
+  .category-card .card-header h2 {
+    color: #e0e0e0;
+  }
+  .category-card .card-content h3 {
+    color: #cccccc;
+  }
+}
