@@ -17,7 +17,7 @@ minify:
   disableXML: true
   minifyOutput: true
 
-removePathAccents: true
+removePathAccents: false
 makePath: tolower
 
 params:
