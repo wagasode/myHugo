@@ -68,7 +68,7 @@ params:
     - name: note
       url: "https://note.com/wagasode"
     - name: github
-      url: "https://github.com/wagasode"
+      url: "https://github.com/wagasode/myHugo"
     - name: youtube
       url: "https://www.youtube.com/@wagasode_saikyo/streams"
 
