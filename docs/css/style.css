@@ -15,25 +15,30 @@ a.custom-link:hover {
 }
 
 /* カラースキーム対応のCSS変数 */
-:root {
-  --custom-link: #22c55e;
-  --custom-link-hover: #15803d;
-  --custom-link-background: #f0fdf4;
-  --homepage-header-title: #333;
-  --homepage-header-text: #666;
-  --category-card-header: #444;
-  --category-card-h3: #555;
+/* PaperModカラーモード連動の色指定 */
+html.light .homepage-header h1 {
+  color: #333;
 }
-@media (prefers-color-scheme: dark) {
-  html {
-    --custom-link: #22c55e;
-    --custom-link-hover: #15803d;
-    --custom-link-background: #f0fdf4;
-    --homepage-header-title: #f1f1f1;
-    --homepage-header-text: #bbbbbb;
-    --category-card-header: #e0e0e0;
-    --category-card-h3: #cccccc;
-  }
+html.dark .homepage-header h1 {
+  color: #f1f1f1;
+}
+html.light .homepage-header p {
+  color: #666;
+}
+html.dark .homepage-header p {
+  color: #bbbbbb;
+}
+html.light .category-card .card-header h2 {
+  color: #444;
+}
+html.dark .category-card .card-header h2 {
+  color: #e0e0e0;
+}
+html.light .category-card .card-content h3 {
+  color: #555;
+}
+html.dark .category-card .card-content h3 {
+  color: #cccccc;
 }
 
 /* Homepage Layout Styles */
@@ -134,20 +139,4 @@ a.custom-link:hover {
   margin-top: 30px;
   padding-top: 20px;
   border-top: 1px solid #eee;
-}
-
-/* ダークモード対応：文字色の上書き */
-@media (prefers-color-scheme: dark) {
-  .homepage-header h1 {
-    color: #f1f1f1;
-  }
-  .homepage-header p {
-    color: #bbbbbb;
-  }
-  .category-card .card-header h2 {
-    color: #e0e0e0;
-  }
-  .category-card .card-content h3 {
-    color: #cccccc;
-  }
 }

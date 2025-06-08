@@ -69,6 +69,8 @@ params:
       url: "https://note.com/wagasode"
     - name: github
       url: "https://github.com/wagasode"
+    - name: youtube
+      url: "https://www.youtube.com/@wagasode_saikyo/streams"
 
 
   cover:

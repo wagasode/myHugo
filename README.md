@@ -1,3 +1,3 @@
 # myHugo
 
-wagasodeのローカルObsidianメモを静的サイトとして公開するためのページです。
+wagasodeのローカルObsidianメモを静的サイトとして公開するためのリポジトリです。

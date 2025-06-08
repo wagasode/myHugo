@@ -1,9 +1,14 @@
 {{ define "main" }}
   <main class="homepage-main">
+    {{ with .Site.Params.socialIcons }}
+    <div class="social-icons">
+      {{ partial "social_icons.html" (dict "socialIcons" . "align" "center") }}
+    </div>
+    {{ end }}
     <header class="homepage-header">
       <h1>wagasode's zettelkasten</h1>
-      <p>このサイトは、我袖（wagasode）が日々生産しているメモを公開していく場所として作成してみました。<br>
-      ※全て個人的なメモであり、内容の正確性は保証しかねます。</p>
+      <p>我袖（wagasode）が日々生産しているメモを公開していく場所<br>
+      ※全て個人的なメモであり、内容の正確性は保証できません</p>
     </header>
 
     <section class="memo-categories">
