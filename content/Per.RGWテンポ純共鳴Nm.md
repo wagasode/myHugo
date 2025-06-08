@@ -1,5 +1,5 @@
 ---
-title: "Memo - RGWテンポ純共鳴ネメシス"
+title: "Memo - RGWテンポ純共鳴Nm"
 date: 2025-06-08
 draft: false
 ---
