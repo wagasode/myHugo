@@ -368,3 +368,50 @@ html.dark .backlinks h3 {
   color: #a0aec0;
   border-top-color: #4a5568;
 }
+
+/* 免責事項のスタイリング */
+.disclaimer {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e2e8f0;
+}
+
+.disclaimer-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0 0;
+  position: relative;
+}
+
+.disclaimer-list li {
+  position: relative;
+  padding-left: 1rem;
+  margin-bottom: 0.5rem;
+  color: #1d68d8;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.disclaimer-list li::before {
+  content: "・";
+  font-size: 1em;
+  vertical-align: middle;
+  margin-right: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: -0.1em;
+}
+
+/* ダークモード対応 */
+.dark .disclaimer {
+  border-top-color: #4a5568;
+}
+
+.dark .disclaimer-list li {
+  color: #a0aec0;
+}
+
+.dark .disclaimer-list li::before {
+  color: #63b3ed;
+}
