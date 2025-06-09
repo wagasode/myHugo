@@ -6,8 +6,396 @@
     <description>Recent content on wagasode</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wagasode.github.io/myHugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memo - Obsidianって何？</title>
+      <link>https://wagasode.github.io/myHugo/per.obsidian%E3%81%A3%E3%81%A6%E4%BD%95/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.obsidian%E3%81%A3%E3%81%A6%E4%BD%95/</guid>
+      <description>&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;便利なメモアプリ&lt;/li&gt;
+&lt;li&gt;使っていて感触良いのでおすすめ&lt;/li&gt;
+&lt;li&gt;無料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;何が便利なの他のメモアプリとの差別化点は&#34;&gt;何が便利なの？　他のメモアプリとの差別化点は？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[ref.Zenn &amp;amp; Hugo in Obsidian  OHZフローによるナレッジベースとアウトプットコンテンツの完全統括]]&lt;/li&gt;
+&lt;li&gt;メモとメモの間にリンクを貼る事ができる！
+&lt;ul&gt;
+&lt;li&gt;二重ブラケット記法&lt;code&gt;[[wikilink]]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;マークダウンのリンク記法&lt;code&gt;[見出し](link)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;主にこの2つを使う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;リンクを貼れると何が便利なの？
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;zettelkasten&lt;/code&gt;を実践できる
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.zettelkasten%E3%81%A3%E3%81%A6%E4%BD%95/&#34; class=&#34;custom-link&#34;&gt;Memo - zettelkastenって何？&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Obisidian&lt;/code&gt;は&lt;code&gt;zk&lt;/code&gt;との相性がとても良いという話。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;知識の出力は「知識量」だけじゃなくて、「知識と知識の結びつき」に依存すると思っている話。&lt;/li&gt;
+&lt;li&gt;知識と知識、メモとメモ、を結びつける（リンクさせる）事が知的生産的に重要
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Obsidian&lt;/code&gt;はこの観点で便利すぎる！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;インストールの仕方
+&lt;ul&gt;
+&lt;li&gt;後で書くかも&lt;/li&gt;
+&lt;li&gt;調べれば普通に出てきます&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;プラグインでカスタマイズできる
+&lt;ul&gt;
+&lt;li&gt;「できる」というよりは「しないと使い心地良くならない」「しないと使い物にならない」と言った方が正確かも
+&lt;ul&gt;
+&lt;li&gt;中級者向け？&lt;/li&gt;
+&lt;li&gt;これから使い始めてみる、という人は後回しでいいかも&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;どのようにカスタマイズするかは個人の好み&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Obsidian プラグイン おすすめ&lt;/code&gt;とか&lt;code&gt;Obsidian プラグイン 初心者&lt;/code&gt;とかで調べる&lt;/li&gt;
+&lt;li&gt;おすすめプラグイン
+&lt;ul&gt;
+&lt;li&gt;後で書く&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Memo - zettelkastenって何？</title>
+      <link>https://wagasode.github.io/myHugo/per.zettelkasten%E3%81%A3%E3%81%A6%E4%BD%95/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.zettelkasten%E3%81%A3%E3%81%A6%E4%BD%95/</guid>
+      <description>&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;効率的なメモの取り扱いをするための手法。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;zettelkasten&lt;/code&gt;が長いので&lt;code&gt;zk&lt;/code&gt;と略記する。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;メモの取り扱いとは&#34;&gt;「メモの取り扱い」とは？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;メモの「作成」「整理と振り返り」「更新」と「リンクの作成」の4つ。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;どのような原理で効率が良くなるの&#34;&gt;どのような原理で効率が良くなるの？&lt;/h3&gt;
+&lt;h4 id=&#34;メモの作成&#34;&gt;メモの作成&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;zk&lt;/code&gt;では「走り書きのメモ」を格納する場所を一箇所に集約する。&lt;/li&gt;
+&lt;li&gt;→メモを書く時に「このメモどこに仕舞うべきだっけ？」という思考が不要になる。
+&lt;ul&gt;
+&lt;li&gt;→「メモの作成」と「メモの管理」が別タスクとして分離できるようになる。&lt;/li&gt;
+&lt;li&gt;→いっぱいメモを書けるようになる！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;メモの整理と振り返り&#34;&gt;メモの整理と振り返り&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;zk&lt;/code&gt;では定期的に「書いたメモを振り返ること」がタスクの一つとして設定される。&lt;/li&gt;
+&lt;li&gt;→一度得た知識を忘れずに定着させることがしやすくなる！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;メモの更新&#34;&gt;メモの更新&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;zk&lt;/code&gt;では「一度書いたメモを書き直すこと」がタスクの一つとして設定される。
+&lt;ul&gt;
+&lt;li&gt;簡潔に書き直す&lt;/li&gt;
+&lt;li&gt;詳細な情報を加筆する&lt;/li&gt;
+&lt;li&gt;複数のメモを一つのメモにまとめる&lt;/li&gt;
+&lt;li&gt;一つのメモを複数のメモに分割する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;→一度得た知識が発展しやすい！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;リンクの作成&#34;&gt;リンクの作成&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;関連しているメモとメモにリンクを貼ること。
+&lt;ul&gt;
+&lt;li&gt;デジタルツールなら文字通りリンクを貼ること。&lt;/li&gt;
+&lt;li&gt;アナログツールなら、あるメモの後ろに関連しているメモを配置すること。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;→知識と知識が関連付けられる。
+&lt;ul&gt;
+&lt;li&gt;→ある知識から別の知識を想起しやすくなる！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;→およそ関連のない知識同士の間に、意外な関連を見出すことが増える。
+&lt;ul&gt;
+&lt;li&gt;→新しいアイディアを思い付く確率が増える！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;どのツールを使うべき&#34;&gt;どのツールを使うべき？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;極論は、紙とペンでも良い。&lt;/li&gt;
+&lt;li&gt;ただ、デジタルツールの方が検索性能に優れている。&lt;/li&gt;
+&lt;li&gt;我袖は&lt;code&gt;Obsidian&lt;/code&gt;を使っている。
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.obsidian%E3%81%A3%E3%81%A6%E4%BD%95/&#34; class=&#34;custom-link&#34;&gt;Memo - Obsidianって何？&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;関連メモ&#34;&gt;関連メモ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.zettelkasten%E3%81%AE%E6%9C%AC%E8%B3%AA%E3%81%AF%E7%B6%B2%E7%BE%85%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84/&#34; class=&#34;custom-link&#34;&gt;zettelkastenの本質は「網羅」ではない&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;関連書籍&#34;&gt;関連書籍&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/TAKE-NOTES-%E2%80%95%E2%80%95%E3%83%A1%E3%83%A2%E3%81%A7%E3%80%81%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A0%E3%81%91%E3%81%AE%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88%E3%81%8C%E8%87%AA%E7%84%B6%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B-%E3%82%BA%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9/dp/4296000411&#34;
+    class=&#34;custom-link&#34; 
+    target=&#34;_blank&#34; 
+    rel=&#34;noopener noreferrer&#34;&gt;TAKE NOTES!――メモで、あなただけのアウトプットが自然にできるようになる&lt;span class=&#34;external-link-icon&#34;&gt;↗&lt;/span&gt;&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E8%AA%AD%E6%9B%B8%E3%83%A1%E3%83%A2---take-notes/&#34; class=&#34;custom-link&#34;&gt;読書メモ - Take Notes&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Memo - 緊張と脱力を使いこなしたい</title>
+      <link>https://wagasode.github.io/myHugo/per.%E7%B7%8A%E5%BC%B5%E3%81%A8%E8%84%B1%E5%8A%9B%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%97%E3%81%9F%E3%81%84/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E7%B7%8A%E5%BC%B5%E3%81%A8%E8%84%B1%E5%8A%9B%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%97%E3%81%9F%E3%81%84/</guid>
+      <description>&lt;h3 id=&#34;きっかけ&#34;&gt;きっかけ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;今週のジャンプ「灯火のオテル」第5話を読んだ
+&lt;ul&gt;
+&lt;li&gt;「緊張と脱力」の話が出てきた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;最近「パワースパイク」について考えてた
+&lt;ul&gt;
+&lt;li&gt;→「緊張と脱力」と「パワースパイク」って通ずる概念じゃね？　と思った
+&lt;ul&gt;
+&lt;li&gt;→「緊張と脱力」を使いこなすことで競技力が向上する可能性がある&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;パワースパイク&#34;&gt;パワースパイク&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;有限のリソースを効率よく分配するための戦略&lt;/li&gt;
+&lt;li&gt;有限リソース下で利益を最大化する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;脱力集中への転換&#34;&gt;脱力→集中への転換&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;少年漫画で特殊能力の一種として取り上げられることもある
+&lt;ul&gt;
+&lt;li&gt;「トリコ」 - マッチ&lt;/li&gt;
+&lt;li&gt;「灯火のオテル」 - 「英気」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;力を抜くべきタイミングでちゃんと抜けているか？
+&lt;ul&gt;
+&lt;li&gt;「抜くべき」タイミングで力が入ってると&lt;/li&gt;
+&lt;li&gt;休むべき時にちゃんと休むとかね&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;集中すべき時に「爆発」できるか？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;脱力について調べてみる&#34;&gt;脱力について調べてみる&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kenkogoshin.tank.jp/blog/?p=4927&#34;
+    class=&#34;custom-link&#34; 
+    target=&#34;_blank&#34; 
+    rel=&#34;noopener noreferrer&#34;&gt;【脱力の科学】&lt;span class=&#34;external-link-icon&#34;&gt;↗&lt;/span&gt;&lt;/a&gt;という記事があった
+&lt;ul&gt;
+&lt;li&gt;合気道における脱力の技術
+&lt;ul&gt;
+&lt;li&gt;「特に多くの人が誤る大きな間違いがあります。それは、後手に回って、相手とぶつかった点に対して集中してしまうことです。」
+&lt;ul&gt;
+&lt;li&gt;対戦において、力を集中すべき部分は「ぶつかった場所」ではない&lt;/li&gt;
+&lt;li&gt;相手は無意識的に「ぶつけられる前提」で力を込めている&lt;/li&gt;
+&lt;li&gt;そこにこちらが力をぶつけてしまうと、相手にとって理想の状態になってしまう
+&lt;ul&gt;
+&lt;li&gt;相手視点のこちらの力点の予測　みたいなこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;→衝撃点をずらすことでこちらに有利になる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;「力を抜くというのは、力を入れる場所を見計らうということ」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;シャドウバースの「Teir1を使うか」「マイナーデッキを使って初狩りするか」みたいな思考と通ずる気がする
+&lt;ul&gt;
+&lt;li&gt;合気道のようなシャドウバース&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;議論（レスバ）みたいなものもそうだよね
+&lt;ul&gt;
+&lt;li&gt;相手の攻撃（発言）に対して「ちょっとズレた返答をする」ことで相手と衝撃点（論点）をズラす&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;大体パワースパイクと一緒
+&lt;ul&gt;
+&lt;li&gt;[[memo.1日のパワースパイク]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>読書メモ - Take Notes</title>
+      <link>https://wagasode.github.io/myHugo/per.%E8%AA%AD%E6%9B%B8%E3%83%A1%E3%83%A2---take-notes/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E8%AA%AD%E6%9B%B8%E3%83%A1%E3%83%A2---take-notes/</guid>
+      <description>&lt;h3 id=&#34;きっかけ&#34;&gt;きっかけ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RZNKhCgbaT8&#34;
+    class=&#34;custom-link&#34; 
+    target=&#34;_blank&#34; 
+    rel=&#34;noopener noreferrer&#34;&gt;佐藤かえでさんの動画&lt;span class=&#34;external-link-icon&#34;&gt;↗&lt;/span&gt;&lt;/a&gt; でおすすめされていたのを見て購入&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;読んだ感想&#34;&gt;読んだ感想&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;自分は1ヶ月弱
+
+
+
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.zettelkasten%E3%81%A3%E3%81%A6%E4%BD%95/&#34; class=&#34;custom-link&#34;&gt;zettelkasten&lt;/a&gt;
+を試してみて、その後でこの本を読んだ、という流れだった
+&lt;ul&gt;
+&lt;li&gt;実践した体験と本の説明が結びつく感じがして内容を理解しやすかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;→なので「これからzettelkastenを始めてみようかな」という人が読むには&lt;strong&gt;微妙&lt;/strong&gt;だと思う
+&lt;ul&gt;
+&lt;li&gt;体験が不足していると、本の内容が抽象的に感じられ理解し辛いと思う&lt;/li&gt;
+&lt;li&gt;とりあえず手探りでzkを始めてみて、ある程度やって「このやり方で正しいのか？」と疑問が溜まってきたらこの本を読む、という流れが効率的だと思う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;文献メモの作り方が参考になった
+&lt;ul&gt;
+&lt;li&gt;自分の作り方：原文のコピペ多め&lt;/li&gt;
+&lt;li&gt;推奨されていた作り方：文献の内容を自分の言葉で書くことが重要&lt;/li&gt;
+&lt;li&gt;→コピペやめて自分の言葉で書こう！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;「索引」の作り方があまりイメージがついてない
+&lt;ul&gt;
+&lt;li&gt;自分のzkには索引を用意していないため
+&lt;ul&gt;
+&lt;li&gt;[[memo.自分のzettelkasten紹介]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;代わりに「構造化メモ」というものを用意している
+&lt;ul&gt;
+&lt;li&gt;永久保存版のメモを束ねたメモ&lt;/li&gt;
+&lt;li&gt;これが擬似的に索引の役割を果たしている&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;推奨されていた索引の作り方の方が、コンパクトで良さそうだとは思った
+&lt;ul&gt;
+&lt;li&gt;ただ今の構造化メモをバラして索引として作り変えるのめんどくさいなー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;あとはネットに落ちてるzettelkastenの概念と大枠は一緒だったかな
+&lt;ul&gt;
+&lt;li&gt;具体例が豊富で詳しい情報が知れたって感じ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;関連メモ後で整理する&#34;&gt;関連メモ（後で整理する）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[memo.白紙に向かってさあ書き始めるぞは馬鹿]]&lt;/li&gt;
+&lt;li&gt;[[memo.ニコラスルーマン生い立ち・zettlekastenは凄いよねという話]]&lt;/li&gt;
+&lt;li&gt;[[memo.メモ同士にリンクを貼るということが画期的だった]]&lt;/li&gt;
+&lt;li&gt;[[memo.メモは自分の言葉で書くことが重要]]&lt;/li&gt;
+&lt;li&gt;[[memo.zettelkastenにおけるメモの分類の仕方]]&lt;/li&gt;
+&lt;li&gt;[[memo.仕事を続けるにはモチベが最重要]]&lt;/li&gt;
+&lt;li&gt;[[memo.客観的なフィードバックをいかにもらうか]]&lt;/li&gt;
+&lt;li&gt;[[memo.何かを本当に理解しているか、の判定器としてのメモ]]&lt;/li&gt;
+&lt;li&gt;[[memo.メモの量が増えることによるブレイクスルー]]&lt;/li&gt;
+&lt;li&gt;[[memo.マルチタスクによる現代人の注意力低下と、メモの関係]]&lt;/li&gt;
+&lt;li&gt;[[memo.ゴールに対して計画を立てないこと、の効能]]&lt;/li&gt;
+&lt;li&gt;[[memo.思い出すことは理解していないとできない]]&lt;/li&gt;
+&lt;li&gt;[[memo.メモを作る際は「問い」が大事]]&lt;/li&gt;
+&lt;li&gt;[[memo.確証バイアスとzk]]&lt;/li&gt;
+&lt;li&gt;[[memo.何をメモるべき？重要なものとそうでないものを区別する能力]]&lt;/li&gt;
+&lt;li&gt;[[memo.メモを取ることの目的とは？]]&lt;/li&gt;
+&lt;li&gt;[[memo.書くことで自分の考えを客観視できる]]&lt;/li&gt;
+&lt;li&gt;[[memo.zkで「欠乏の行動経済学」を読む実践]]&lt;/li&gt;
+&lt;li&gt;[[Per.zettelkastenの本質は「網羅」ではない]]&lt;/li&gt;
+&lt;li&gt;[[memo.zkに索引を作ろう]]&lt;/li&gt;
+&lt;li&gt;[[memo.暗記した内容を吐き出すだけの人間は失敗する]]&lt;/li&gt;
+&lt;li&gt;[[memo.原稿を書く際は「何を入れないか」を考える]]&lt;/li&gt;
+&lt;li&gt;[[memo.複数のタスクに同時に取り組むというスタイルが良い]]&lt;/li&gt;
+&lt;li&gt;[[memo.何かを閃くたびにペンを取ろう]]&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Memo - RGWカバンラティカE</title>
       <link>https://wagasode.github.io/myHugo/per.rgw%E3%82%AB%E3%83%90%E3%83%B3%E3%83%A9%E3%83%86%E3%82%A3%E3%82%ABe/</link>
@@ -15,26 +403,67 @@
       <guid>https://wagasode.github.io/myHugo/per.rgw%E3%82%AB%E3%83%90%E3%83%B3%E3%83%A9%E3%83%86%E3%82%A3%E3%82%ABe/</guid>
       <description>&lt;h3 id=&#34;全般&#34;&gt;全般&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;ラティカターン0cの枚数数える
+&lt;li&gt;カバンターンの0c枚数を数える
 &lt;ul&gt;
-&lt;li&gt;カバン進化ラティカ必須
+&lt;li&gt;カバン+ラティカ+0c5枚+1c3枚&lt;/li&gt;
+&lt;li&gt;盤面が狭いと12プレイできないことがある
 &lt;ul&gt;
-&lt;li&gt;epないなら3面まで。&lt;/li&gt;
-&lt;li&gt;epあるなら煌めき前に0cバウンスラティカ可能&lt;/li&gt;
+&lt;li&gt;必須行動：カバン進化+ラティカ
+&lt;ul&gt;
+&lt;li&gt;→epなし+4面埋まってるとラティカをプレイするスペースがない
+&lt;ul&gt;
+&lt;li&gt;epあるなら煌めき前に0cバウンス+ラティカでプレイ可能&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;暖かな抱擁ってどれくらいキープするん？&lt;/li&gt;
-&lt;li&gt;全てをできるデッキだからこそ、ハンドの偏りによって「このハンドは何ができないのか」を見極めるのが重要。
+&lt;li&gt;盤面が埋まると0cフェルパーや1c崇拝者をプレイ数換算できない
+&lt;ul&gt;
+&lt;li&gt;注意しよう！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;異端の孤独が打てるかどうかで12プレイできるかが変わることがある
+&lt;ul&gt;
+&lt;li&gt;ミラーマッチで特に頻出
+&lt;ul&gt;
+&lt;li&gt;盤面空にして12プレイできないお祈り戦略&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ゲームプラン&#34;&gt;ゲームプラン&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;基本はなんでもできるデッキ
+&lt;ul&gt;
+&lt;li&gt;ハンドの偏りによって「できないこと」が発生する。
 &lt;ul&gt;
 &lt;li&gt;例：回復ができない&lt;/li&gt;
 &lt;li&gt;例：守護突破ができない&lt;/li&gt;
 &lt;li&gt;例：盤面処理ができない&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;→「できないこと」から逆算してゲームプランを決める、というアプローチが効率的。
+&lt;ul&gt;
+&lt;li&gt;「ヒーリングがないからロックプランは無謀だな」&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;連携r対面&#34;&gt;連携R対面&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;マリガン&#34;&gt;マリガン&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;暖かな抱擁ってどれくらいキープするん？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;対面ごと&#34;&gt;対面ごと&lt;/h3&gt;
+&lt;h4 id=&#34;連携r対面&#34;&gt;連携R対面&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;カバンターンはロックに拘らず、全処理狙ってok
 &lt;ul&gt;
@@ -50,7 +479,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;フラグラnc対面&#34;&gt;フラグラNc対面&lt;/h3&gt;
+&lt;h4 id=&#34;フラグラnc対面&#34;&gt;フラグラNc対面&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;ベルエン3枚放置したら抜けずに終わった
 &lt;ul&gt;
@@ -60,7 +489,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;ハンドレス対面&#34;&gt;ハンドレス対面&lt;/h3&gt;
+&lt;h4 id=&#34;ハンドレス対面&#34;&gt;ハンドレス対面&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;後1崇拝者に先2メタトロンおいたら普通にルムサドアマンの返し強すぎて終わった
 &lt;ul&gt;
@@ -69,15 +498,15 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;人形nm&#34;&gt;人形Nm&lt;/h3&gt;
+&lt;h4 id=&#34;人形nm&#34;&gt;人形Nm&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;後攻、メタトロン欠損だと普通にオーキスオーキスの盤面つれぇ&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;モノ対面&#34;&gt;モノ対面&lt;/h3&gt;
+&lt;h4 id=&#34;モノ対面&#34;&gt;モノ対面&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;アビスの返しにメタトロンが一番勝つ？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;ミラー&#34;&gt;ミラー&lt;/h3&gt;
+&lt;h4 id=&#34;ミラー&#34;&gt;ミラー&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;メタトロン、不要なカードと思いきや実はリーサルパーツな話。
 &lt;ul&gt;
@@ -399,6 +828,91 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>zettelkastenの本質は「網羅」ではない</title>
+      <link>https://wagasode.github.io/myHugo/per.zettelkasten%E3%81%AE%E6%9C%AC%E8%B3%AA%E3%81%AF%E7%B6%B2%E7%BE%85%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.zettelkasten%E3%81%AE%E6%9C%AC%E8%B3%AA%E3%81%AF%E7%B6%B2%E7%BE%85%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84/</guid>
+      <description>&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;外部ソース（本、動画）を見て、その内容を100とする
+&lt;ul&gt;
+&lt;li&gt;100を全てメモするのが良いか？
+&lt;ul&gt;
+&lt;li&gt;答えはNo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;内容を100%コピーするのは消費リソースが多い。
+&lt;ul&gt;
+&lt;li&gt;授業でめっちゃ綺麗なノート作れたけど何も理解してないみたいな状態になる&lt;/li&gt;
+&lt;li&gt;作業のハードルが上がり心理的抵抗感につながる
+&lt;ul&gt;
+&lt;li&gt;「メモを取りたいけど網羅するのが大変だからメモを取るのやめよう」という本末転倒現象が発生する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;メモの作成においては、作業量にノルマを設けるべきではない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;「自分の言葉」で書くことが重要
+&lt;ul&gt;
+&lt;li&gt;自分の状況、文脈に置き換えることで、理解が促進される&lt;/li&gt;
+&lt;li&gt;[[memo.何かを本当に理解しているか、の判定器としてのメモ]]&lt;/li&gt;
+&lt;li&gt;発信者の意図とズレた理解になるかもしれないが、別に構わないと思う。
+&lt;ul&gt;
+&lt;li&gt;要約タスクのような、内容の忠実性が必要な時は良くない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;重要な情報を簡潔にメモすることが重要
+&lt;ul&gt;
+&lt;li&gt;自分用のメモなら「自分にとって重要な情報」でok&lt;/li&gt;
+&lt;li&gt;何が重要なのか？　を見極める力を養う機会として使う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;結論&#34;&gt;結論&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;外部ソースの内容を全て網羅してもいいし、しなくてもいい。&lt;/li&gt;
+&lt;li&gt;その時にできる量をやるのが最適。
+&lt;ul&gt;
+&lt;li&gt;それ以上でもそれ以下でも最適ではない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;「自分のアイディアを走り書きする」についても同様。
+&lt;ul&gt;
+&lt;li&gt;思いついたアイディアを全て網羅してもいいし、しなくてもいい。&lt;/li&gt;
+&lt;li&gt;その時に書けるだけの量を書く。量や網羅率は重要ではない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;重要なのは「ほんの少しでもいいからメモを作る」ことによって「後で回収するためのとっかかりを作る」こと。
+&lt;ul&gt;
+&lt;li&gt;これが本質！&lt;/li&gt;
+&lt;li&gt;回収は未来の自分に任せて良い。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;シャドバの雑メモ無限生成してみた感想&#34;&gt;シャドバの雑メモ無限生成してみた感想&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;雑メモの量に圧倒される。&lt;/li&gt;
+&lt;li&gt;書いたメモを1つずつ見て「これはこのジャンルに属するからその上位ページからリンクを貼って…」という分類作業がめんどくさい！！！！！！&lt;/li&gt;
+&lt;li&gt;→「走り書きメモ作成」に網羅性が不要なのと同様、「リンク作成」にも網羅性は不要、という気づき
+&lt;ul&gt;
+&lt;li&gt;「気になったとこから繋げてく」のが大事&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;「今気になってること」をベースに全ての作業をする
+&lt;ul&gt;
+&lt;li&gt;「今気になってないもの」については一切考えなくていいよ〜&lt;/li&gt;
+&lt;li&gt;モチベ至上主義&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
