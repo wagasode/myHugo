@@ -6,8 +6,219 @@
     <description>Recent content on wagasode</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wagasode.github.io/myHugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memo - なぜGFにU10V持ち込まなかったのか？</title>
+      <link>https://wagasode.github.io/myHugo/per.%E3%81%AA%E3%81%9Cgf%E3%81%ABu10v%E3%82%92%E6%8C%81%E3%81%A1%E8%BE%BC%E3%81%BE%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E3%81%AA%E3%81%9Cgf%E3%81%ABu10v%E3%82%92%E6%8C%81%E3%81%A1%E8%BE%BC%E3%81%BE%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B/</guid>
+      <description>&lt;h3 id=&#34;当時の思考&#34;&gt;当時の思考&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;あまり覚えていない…&lt;/li&gt;
+&lt;li&gt;当時のメモを見返したけど、明確な理由は書かれていなかった
+&lt;ul&gt;
+&lt;li&gt;まず
+
+
+
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.hos%E3%82%A8%E3%82%A4%E3%83%AB%E6%A9%9F%E6%A2%B0w/&#34; class=&#34;custom-link&#34;&gt;エイル機械W&lt;/a&gt;
+が確定で、＠2状態だった&lt;/li&gt;
+&lt;li&gt;壁打ちでの
+
+
+
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.hos%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%83%E3%83%88b/&#34; class=&#34;custom-link&#34;&gt;アミュレットB&lt;/a&gt;
+の戦績がかなり良く、ほぼ確定、＠1状態だった&lt;/li&gt;
+&lt;li&gt;残り3rdデッキ何にするか？　というところでU10Vと色々なデッキの比較になっていた&lt;/li&gt;
+&lt;li&gt;→比較の結果、機械Ncが選ばれた、という経緯だった模様&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;当時のメモ&#34;&gt;当時のメモ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;当時の我袖はGF環境を「アミュB + U10V + ＠1」と予想していた、という大前提がある&lt;/li&gt;
+&lt;li&gt;それを踏まえて読むと分かりやすそう
+&lt;ul&gt;
+&lt;li&gt;実際は機械Wの母数がかなり多く、予想は外れているのだが…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;GF出場者の3rd候補
+①AF
+②AFメタ殴りデッキ（自然ラティカ、自然R）
+③運だけ6キル（機械W、ランプD）
+④u10メタニチャコン（コンエル、ドミニオン入り◯◯、クロノス入り◯◯）
+
+自分が3rdとして機械Ncを使う場合
+①→まあ五分認識、許容
+②→嬉しい
+③→機械W苦しい、ランプDにはやれる認識
+④→クロノス2枚採用して許容
+
+Hirobosuさんの持ち込みにu10ありそう・機械W軽視したくない
+→クロノス2にしたい。
+→懸念：割と王道なアミュ狂乱@1が重め。2回戦突破率下げてそうで、妥協するかどうか。
+@1部分が割と何でも勝率5割あると思ってるけど、勝率5割越すのむずそうとも思う。
+
+→機械Nc以上の選択肢の条件：Hirobosuにやれてて、アミュ狂乱重くないもの。
+①u10に微有利以上（初狩り込みでok）
+②AFキツくない
+③機械Wキツくないと嬉しい
+④アミュ狂乱にマシ
+・AF：④vsアミュ微改善。①微悪化。その他大差なし
+　→1回戦気合いで勝った時の2回戦突破率やや高い？
+・ドミニオン自然D：④の改善でかい。②③悪化。①微悪化。エルフいた時人生終わる。
+　→ちゃんとVBに勝てるならリターンでかい。3rd対決軽視すぎてVB外し居た時かなり良くない。
+・狂乱：③を満たさない以外好条件。練度も適正もない
+・u10：①の主張弱め、②③ok、④大差なし。2回戦のu10濃度薄い時別にバランス良い？
+
+自然Dは王道に強く、邪道に弱い。VBにパワーで抜かれちゃった時の5戦目葬式。
+機械Ncは邪道に強く、王道に弱い。ワンチャンB狂乱抜いた時デカくて、抜けなくても3rd対決やれる顔はしてる。
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;U10Vを持ち込まなかった理由は？
+&lt;ul&gt;
+&lt;li&gt;U10Vは持ち込み筆頭候補かつ、リリィやアフェクションでメタりやすい性質があることから、メタ対象になると思っていた
+&lt;ul&gt;
+&lt;li&gt;U10Vのメタ貫通能力を大して評価していなかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;HirobosuさんがU10Vを持ち込む可能性が高いと予想していた
+&lt;ul&gt;
+&lt;li&gt;機械NcがU10Vに微有利以上あると思っていた&lt;/li&gt;
+&lt;li&gt;→ミラーするより勝率が上がるという主張&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;機械NcがAF対面5割はあると思っていた
+&lt;ul&gt;
+&lt;li&gt;U10VもなんやかんやAFに7割りとかはなく、せいぜい6割だろうと予想していた&lt;/li&gt;
+&lt;li&gt;アミュB、U10Vの次に多いと予想していたAFNm対面については、U10V&amp;gt;機械Ncではある
+&lt;ul&gt;
+&lt;li&gt;しかし、その差分はあまり大きくなく、他の要素との総合値では吸収される範囲だと考えていた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;機械Wの母数がもっと少ないと思っていた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;反省&#34;&gt;反省&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;蓋を開けてみると、機械Wが世界に多すぎた
+&lt;ul&gt;
+&lt;li&gt;→ U10Vを持ち込まなかったのは悪手だったな〜という気はする
+&lt;ul&gt;
+&lt;li&gt;なぜ機械Wの母数が少ないと予想していたんだっけ？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;メモが雑だと未来の自分が振り返りをしづらくて悲しくなる&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Memo - ビヨンドでの新しいゲームシステム</title>
+      <link>https://wagasode.github.io/myHugo/per.%E3%83%93%E3%83%A8%E3%83%B3%E3%83%89%E3%81%A7%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E3%83%93%E3%83%A8%E3%83%B3%E3%83%89%E3%81%A7%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/</guid>
+      <description>&lt;h3 id=&#34;参考文献&#34;&gt;参考文献&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/live/yjtmgb0bsFw&#34;
+    class=&#34;custom-link&#34; 
+    target=&#34;_blank&#34; 
+    rel=&#34;noopener noreferrer&#34;&gt;【Shadowverse シャドウバース】Shadowverse: Worlds Beyond 最新情報公開生放送&lt;span class=&#34;external-link-icon&#34;&gt;↗&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;超進化&#34;&gt;超進化&lt;/h3&gt;
+&lt;h2 id=&#34;超進化2&#34;&gt;&lt;img alt=&#34;超進化1&#34; loading=&#34;lazy&#34; src=&#34;choshinka1.png&#34;&gt;
+&lt;img alt=&#34;超進化2&#34; loading=&#34;lazy&#34; src=&#34;choshinka2.png&#34;&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;エクストラpp&#34;&gt;エクストラPP&lt;/h3&gt;
+&lt;h2 id=&#34;エクストラpp-1&#34;&gt;&lt;img alt=&#34;エクストラPP&#34; loading=&#34;lazy&#34; src=&#34;extrapp.png&#34;&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;キーワード能力の追加&#34;&gt;キーワード能力の追加&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;威圧
+&lt;ul&gt;
+&lt;li&gt;相手のフォロワーから攻撃されない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;オーラ
+&lt;ul&gt;
+&lt;li&gt;相手の能力の選択対象にならない&lt;/li&gt;
+&lt;li&gt;選択不可のこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;バリア
+&lt;ul&gt;
+&lt;li&gt;1度だけ受けるダメージを0にする&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;その他&#34;&gt;その他&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;後攻のEPの数が3個→2個に変更&lt;/li&gt;
+&lt;li&gt;マリガン時の手札枚数が3枚→4枚に変更&lt;/li&gt;
+&lt;li&gt;後攻1ターン目のドロー枚数が2枚→1枚に変更&lt;/li&gt;
+&lt;li&gt;リーダー付与効果の名称として「クレスト」が採用
+&lt;ul&gt;
+&lt;li&gt;クレストは最大5個まで保持できる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;NcとVがクラスから削除され、新たに「ナイトメア」が追加&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Memo - 日本のアニメとハリウッド映画の関係と対比</title>
+      <link>https://wagasode.github.io/myHugo/per.%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%A8%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%E6%98%A0%E7%94%BB%E3%81%AE%E9%96%A2%E4%BF%82%E3%81%A8%E5%AF%BE%E6%AF%94/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%A8%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89%E6%98%A0%E7%94%BB%E3%81%AE%E9%96%A2%E4%BF%82%E3%81%A8%E5%AF%BE%E6%AF%94/</guid>
+      <description>&lt;h3 id=&#34;参考文献&#34;&gt;参考文献&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/dp/4040800192&#34;
+    class=&#34;custom-link&#34; 
+    target=&#34;_blank&#34; 
+    rel=&#34;noopener noreferrer&#34;&gt;なぜ日本は〈メディアミックスする国〉なのか&lt;span class=&#34;external-link-icon&#34;&gt;↗&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wcE2SdVoic4&amp;amp;t=870s&#34;
+    class=&#34;custom-link&#34; 
+    target=&#34;_blank&#34; 
+    rel=&#34;noopener noreferrer&#34;&gt;なぜVTuberが流行るのか？日本のコンテンツビジネスの特徴と現状を解説【前編】&lt;span class=&#34;external-link-icon&#34;&gt;↗&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;日本のアニメ&#34;&gt;日本のアニメ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;分野横断型&lt;/li&gt;
+&lt;li&gt;メディアミックス展開戦略を取られる事が多い
+&lt;ul&gt;
+&lt;li&gt;漫画、アニメ、小説、グッズ化、二次創作、etc…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;→様々なメディア形態で複合的な収入形態になる
+&lt;ul&gt;
+&lt;li&gt;どれがメイン収入、という構造になりづらい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ハリウッド映画&#34;&gt;ハリウッド映画&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ディズニーやハリウッドなどの「大元」のコンテンツが核になる&lt;/li&gt;
+&lt;li&gt;メインの事業収入は「映画館」での興行収入
+&lt;ul&gt;
+&lt;li&gt;最近だと映画配信サブスクとかも広義の「映画館」になるか&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;→その他のメディア収入は補助的な位置付けでしかない&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Memo - HOS U10V</title>
       <link>https://wagasode.github.io/myHugo/per.hosu10v/</link>
@@ -16,6 +227,23 @@
       <description>&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;デッキを10枚以下にすることでデッキバリューが跳ね上がるコンボデッキ。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;関連メモ&#34;&gt;関連メモ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E3%81%AA%E3%81%9Cgf%E3%81%ABu10v%E3%82%92%E6%8C%81%E3%81%A1%E8%BE%BC%E3%81%BE%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B/&#34; class=&#34;custom-link&#34;&gt;Memo - なぜGFにU10V持ち込まなかったのか？&lt;/a&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
@@ -48,7 +276,93 @@
 への相性改善を図るコンセプト。&lt;/li&gt;
 &lt;li&gt;エイルの使い方が幅広く、ゲームプランも一直線になりづらいため、面白い。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;構築&#34;&gt;構築&lt;/h3&gt;</description>
+&lt;h3 id=&#34;構築&#34;&gt;構築&lt;/h3&gt;
+&lt;h3 id=&#34;マリガン&#34;&gt;マリガン&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;常にキープ（これらを☆とする）
+&lt;ul&gt;
+&lt;li&gt;アイアロン（3枚）&lt;/li&gt;
+&lt;li&gt;交信（2枚）&lt;/li&gt;
+&lt;li&gt;テトラ（1枚）
+&lt;ul&gt;
+&lt;li&gt;WD対面は2枚目持つ&lt;/li&gt;
+&lt;li&gt;Bu10対面アイアロンor交信脇で2枚目持つ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ジンジャー（1枚）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;条件キープ
+&lt;ul&gt;
+&lt;li&gt;アマリリス：RVNm対面単
+&lt;ul&gt;
+&lt;li&gt;EW対面ジンジャー脇&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ブースト：R狂乱Nm対面で☆との2枚セット&lt;/li&gt;
+&lt;li&gt;調達（1枚）：R狂乱Nm後攻以外は常に単&lt;/li&gt;
+&lt;li&gt;データ：WBD対面後攻単
+&lt;ul&gt;
+&lt;li&gt;その他☆2枚（テトラ+ジンジャー以外）との3枚セット&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;機械神：R狂乱Nm対面後攻で☆orブーストとの2枚セット&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;持たない エイル、イズニア、信頼、導き、パレス、ジル&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;テトラ算&#34;&gt;テトラ算&lt;/h3&gt;
+&lt;h3 id=&#34;対面ごと&#34;&gt;対面ごと&lt;/h3&gt;
+&lt;h4 id=&#34;狂乱v対面&#34;&gt;狂乱V対面&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;W先攻時は「W側回復総量がV側打点総量を上回らないがち」
+&lt;ul&gt;
+&lt;li&gt;=長引いたらいつか負けると思ってる&lt;/li&gt;
+&lt;li&gt;できるだけ早めに勝つのが正義だけど、揃うかは運&lt;/li&gt;
+&lt;li&gt;→揃うまで時間を稼ぐことが勝率に直結。
+&lt;ul&gt;
+&lt;li&gt;→序盤から徹底的にライフカットしたい&lt;/li&gt;
+&lt;li&gt;マリガンではテトラ返してアマリリスを探す&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;W側後攻は「W側回復総量がV側打点総量を上回る」
+&lt;ul&gt;
+&lt;li&gt;=受け切り成功　がぼちぼち発生すると思ってる&lt;/li&gt;
+&lt;li&gt;手の回復量が多そうならキルより耐久優先
+&lt;ul&gt;
+&lt;li&gt;イズニアでデータ捨てるとか。
+&lt;ul&gt;
+&lt;li&gt;どうせ置かせてもらえない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;獅子複数枚とかで受け切りの期待値低そうであれば割り切って勝ちに行く
+&lt;ul&gt;
+&lt;li&gt;後5データ置き&lt;/li&gt;
+&lt;li&gt;言霊をテトラに打つ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;V側の動き見つつ対応&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tips
+&lt;ul&gt;
+&lt;li&gt;先5ヘドネ+鍵盤の形がわかりやすくデータに強い。
+&lt;ul&gt;
+&lt;li&gt;→痛苦はできるかぎり後2より後3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;痛苦で傷ついたテイマーをリペアで回復されるのが地味に辛い。
+&lt;ul&gt;
+&lt;li&gt;読み漏らし注意&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Memo - 競技者はインプレッションを稼ぐべきか？</title>
