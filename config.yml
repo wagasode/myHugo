@@ -67,8 +67,8 @@ params:
     subtitle: "wagasode is seeking."
 
   socialIcons:
-    - name: twitter
-      url: "https://x.com/origin_seeker"
+    - name: discord
+      url: "https://discord.gg/xy2CgskKW5"
     - name: note
       url: "https://note.com/wagasode"
     - name: github
