@@ -97,6 +97,9 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+  
+  math: false
+  mathjax: false
 menu:
   main:
     - identifier: posts
@@ -119,10 +122,10 @@ menu:
       weight: 25
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  # インライン数式を有効化
+    extensions:
+      typographer:
+        enable: true

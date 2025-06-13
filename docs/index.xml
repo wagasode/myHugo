@@ -6,8 +6,153 @@
     <description>Recent content on wagasode</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wagasode.github.io/myHugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memo - 2デッキBO1に関する考察</title>
+      <link>https://wagasode.github.io/myHugo/per.2%E3%83%87%E3%83%83%E3%82%ADbo1%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%80%83%E5%AF%9F/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.2%E3%83%87%E3%83%83%E3%82%ADbo1%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%80%83%E5%AF%9F/</guid>
+      <description>&lt;h3 id=&#34;きっかけ&#34;&gt;きっかけ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ビヨンドの競技シーンが2デッキBO1になるらしい&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;やったことないゲームなので、戦略を考察する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2デッキBO1の戦略には、2種類の異なる要素が含まれる。
+&lt;ul&gt;
+&lt;li&gt;たくさんのデッキの中からどの2デッキを選択すべきか？&lt;/li&gt;
+&lt;li&gt;実際の試合で、2つのデッキの内どちらを使用すべきか？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;この2つについてそれぞれ考える必要がある。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;結論&#34;&gt;結論&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;どの2デッキを選ぶべきか？
+&lt;ul&gt;
+&lt;li&gt;「相性補完が強い」2デッキの組み合わせが良い&lt;/li&gt;
+&lt;li&gt;アグロ2本より、アグロとコンボの方がバランスがいいということ。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;実際の試合では、2デッキの内どちらを選択すべきか？
+&lt;ul&gt;
+&lt;li&gt;「相手の戦略にクセがない」なら、こちら側のやりようはない
+&lt;ul&gt;
+&lt;li&gt;「最適戦略」が固定なので、脳死でそれに従うだけ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;「相手の戦略にクセがある」なら、それを活かして投げるデッキを変えることで期待勝率が増える
+&lt;ul&gt;
+&lt;li&gt;「最適戦略」が変化するので、それに対応する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;非公開制をどう考慮する&#34;&gt;「非公開制」をどう考慮する？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;相手のデッキタイプが確定しない
+&lt;ul&gt;
+&lt;li&gt;「デッキタイプAである」と決めつけた場合、↑の思考に合流する,&lt;/li&gt;
+&lt;li&gt;デッキタイプAである確率、デッキタイプBである確率、C、D&amp;hellip;それぞれのバランスを取って期待値最大化する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;非公開制を活かした戦略&#34;&gt;非公開制を活かした戦略&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;「メジャーなデッキタイプAに有利なデッキに有利なマイナーなデッキタイプB」を発見できれば、非公開制を活かしやすい&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ラティカ環境なら、モノに有利なアグロフェアリーEを使うなど&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;相手視点E見たらモノ投げたくなる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;この戦略が有効な条件&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;メジャーな一強デッキがある&lt;/li&gt;
+&lt;li&gt;一強デッキに明確に有利なメタデッキがある&lt;/li&gt;
+&lt;li&gt;一強デッキと同じクラスかつ、メタデッキに有利なデッキがある&lt;/li&gt;
+&lt;li&gt;デッキバレしない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;例じゃんけん&#34;&gt;例：じゃんけん&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;・プレイヤーAのデッキは「グー」「チョキ」
+・プレイヤーBのデッキは「チョキ」「パー」
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;とする。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;それぞれのプレイヤーがデッキを出す確率は$P(A_{グー})$のように書こう。&lt;/li&gt;
+&lt;li&gt;期待勝率$E_A$は、
+$$E_A = P(A_{グー})P(B_{チョキ}) + P(A_{チョキ})P(B_{パー})$$
+となる。&lt;/li&gt;
+&lt;li&gt;仮にお互いのプレイヤーが50%の確率でデッキを選択する場合は単純。
+$$E_A = 0.5 \times 0.5 + 0.5 \times 0.5 = 0.5$$
+→使える手が2つずつに減っていても、普通にじゃんけんになる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;プレイヤーbが50の確率で各デッキを選択することをプレイヤーaが知っている場合は&#34;&gt;「プレイヤーBが50%の確率で各デッキを選択すること」をプレイヤーAが知っている場合は？&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;プレイヤーAは、自分の戦略を変えることで期待勝率を高められるのだろうか？
+$$E_A = 0.5(P(A_{グー})+P(A_{チョキ}))=0.5$$
+→Aの戦略に関わらず、期待勝率は一定となる。おもんない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;プレイヤーbのデッキ選択にクセがあることをプレイヤーaが知っている場合は&#34;&gt;「プレイヤーBのデッキ選択にクセがあること」をプレイヤーAが知っている場合は？&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;プレイヤーBの戦略に「クセがある」ことを仮定
+&lt;ul&gt;
+&lt;li&gt;70%でチョキを出す&lt;/li&gt;
+&lt;li&gt;30%でパーを出す&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;→プレイヤーAは「常にグーを出す」ことで期待勝率を最大化できる。
+$$
+\begin{aligned}
+E_A &amp;amp;= 0.7P(A_{グー})+0.3(P(A_{チョキ})) \\
+&amp;amp;= 0.7 \times 1.0 + 0.3 \times 0 \\
+&amp;amp;= 0.7
+\end{aligned}
+$$&lt;/li&gt;
+&lt;li&gt;相手の戦略にクセがあるなら、こちらが戦略を変える意味が生まれる。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;例勝率に勾配がある場合&#34;&gt;例：勝率に勾配がある場合&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;じゃんけんは勝率が固定的だが、カードゲームでは勾配がある。&lt;/li&gt;
+&lt;li&gt;プレイヤーAのデッキは「ラティカ」「ハンドレス」&lt;/li&gt;
+&lt;li&gt;プレイヤーBのデッキは「モノ」「人形Nm」&lt;/li&gt;
+&lt;li&gt;相性関係は以下とする。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;デッキ名&lt;/th&gt;
+          &lt;th&gt;ラティカ&lt;/th&gt;
+          &lt;th&gt;ハンドレス&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;モノ&lt;/td&gt;
+          &lt;td&gt;0.7-0.3&lt;/td&gt;
+          &lt;td&gt;0.3-0.7&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;人形Nm&lt;/td&gt;
+          &lt;td&gt;0.4-0.6&lt;/td&gt;
+          &lt;td&gt;0.6-0.4&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;（数値は適当）&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ref - 0612リリース直前公式配信視聴感想</title>
       <link>https://wagasode.github.io/myHugo/per.0612%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E7%9B%B4%E5%89%8D%E5%85%AC%E5%BC%8F%E9%85%8D%E4%BF%A1%E8%A6%96%E8%81%B4%E6%84%9F%E6%83%B3/</link>
@@ -20,6 +165,7 @@
     target=&#34;_blank&#34; 
     rel=&#34;noopener noreferrer&#34;&gt;【Shadowverse: Worlds Beyond】「しゃどばすチャンネルビヨンド リリース記念直前スペシャル」&lt;span class=&#34;external-link-icon&#34;&gt;↗&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr&gt;
 &lt;h3 id=&#34;発表された新カード&#34;&gt;発表された新カード&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;アリア
@@ -224,7 +370,19 @@
 &lt;li&gt;公式大会のバトルフォーマットがBO3から2デッキBO1制に変更
 &lt;ul&gt;
 &lt;li&gt;やったことないゲームすぎる&lt;/li&gt;
-&lt;li&gt;考察しがいがある&lt;/li&gt;
+&lt;li&gt;考察しがいがある
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.2%E3%83%87%E3%83%83%E3%82%ADbo1%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%80%83%E5%AF%9F/&#34; class=&#34;custom-link&#34;&gt;2デッキBO1に関する考察&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
