@@ -2048,6 +2048,61 @@ Hirobosuさんの持ち込みにu10ありそう・機械W軽視したくない
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;obsidianのメモをhugogithub-pagesで公開する&#34;&gt;ObsidianのメモをHugo+Github Pagesで公開する&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;参考：&lt;a href=&#34;https://zenn.dev/estra/articles/ohzflow-zenn-hugo-obsidian&#34;
+    class=&#34;custom-link&#34; 
+    target=&#34;_blank&#34; 
+    rel=&#34;noopener noreferrer&#34;&gt;Zenn &amp;amp; Hugo in Obsidian : OHZフローによるナレッジベースとアウトプットコンテンツの完全統括&lt;span class=&#34;external-link-icon&#34;&gt;↗&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;一旦、Zennは無視してO+Hの部分だけやってみた
+&lt;ul&gt;
+&lt;li&gt;→結構いい感じ！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;感触&#34;&gt;感触&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;メモが見やすくなった。
+&lt;ul&gt;
+&lt;li&gt;最初は他人に見せるためのものだった&lt;/li&gt;
+&lt;li&gt;普通に自分で見返す分にも見やすい。
+&lt;ul&gt;
+&lt;li&gt;閲覧はWebブラウザ、編集したくなったらObsidianに移動、というスタイルになった。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;じんわり「誰かに見られているかもしれない」というプレッシャー
+&lt;ul&gt;
+&lt;li&gt;これがあることによって、多少メモの体裁をちゃんとしようという気分になる&lt;/li&gt;
+&lt;li&gt;ROM専の方々に感謝&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;デメリット&#34;&gt;デメリット&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;リンク作成がやや手間
+&lt;ul&gt;
+&lt;li&gt;Hugoでは&lt;code&gt;[[二重リンク記法]]&lt;/code&gt;が使えない&lt;/li&gt;
+&lt;li&gt;今は&lt;code&gt;customref&lt;/code&gt;を定義してる&lt;/li&gt;
+&lt;li&gt;十分楽だが、Obisidianの楽さには敵わない&lt;/li&gt;
+&lt;li&gt;これに関連して、ページ名を変えた場合に各リンクに自動反映されない問題がある。
+&lt;ul&gt;
+&lt;li&gt;後々リンクが入り組んだ時、ページ名を編集したくなった場合にめんどくさいことになる&lt;/li&gt;
+&lt;li&gt;今は放置でええか、、、&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;画像の管理がダルい
+&lt;ul&gt;
+&lt;li&gt;普通に3手間くらい増える&lt;/li&gt;
+&lt;li&gt;まあ文章メインなのでそこまで気にならない予定ではある&lt;/li&gt;
+&lt;li&gt;シャドバのメモはスクショ多めになるだろうから、困るなぁ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
