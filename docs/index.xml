@@ -6,19 +6,374 @@
     <description>Recent content on wagasode</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wagasode.github.io/myHugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>面白そうなコンボや動き</title>
+      <title>Memo - リノエルフ考察</title>
+      <link>https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%82%A8%E3%83%AB%E3%83%95%E8%80%83%E5%AF%9F/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%82%A8%E3%83%AB%E3%83%95%E8%80%83%E5%AF%9F/</guid>
+      <description>&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;リノセウスがめっちゃ打点を出す
+&lt;ul&gt;
+&lt;li&gt;聖樹の杖が0cバウンスで凄い！&lt;/li&gt;
+&lt;li&gt;OTKもできる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;前に寄せるか後ろに寄せるかのカスタマイズがある
+&lt;ul&gt;
+&lt;li&gt;どの超進化フォロワーを採用するかが基準
+&lt;ul&gt;
+&lt;li&gt;アリア：テンポに寄せる型&lt;/li&gt;
+&lt;li&gt;カバン、オリヴィエ：コントロール・OTKに寄せる型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;基本は、雑に殴って、7-8ppくらいで14点くらい出して〆る感じ
+&lt;ul&gt;
+&lt;li&gt;処理と回復多めのデッキに対してはOTKを狙う&lt;/li&gt;
+&lt;li&gt;バーンダメージでめっちゃ削ってくるデッキには、やられる前にやるスタンスで攻める&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;構築&#34;&gt;構築&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;よく分からんコントロールデッキにリソース負けしたくない
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;→私は後ろ寄せリストの方が好き。&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ミラーは多分テンポ寄せの方が強い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;後ろ寄せリスト&#34;&gt;後ろ寄せリスト&lt;/h4&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;20250618164603.png&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ピン刺しのカードは適当。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;殴りは積極的に狙わず、後ろに構えるコンセプト。&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;リノセウス0枚だというてキツい
+&lt;ul&gt;
+&lt;li&gt;→ちゃんとリノセウス引きに行ける構築にする
+&lt;ul&gt;
+&lt;li&gt;聖樹の2枚目を置けるデッキにする&lt;/li&gt;
+&lt;li&gt;→中盤くっつきが悪いドッグウッドを不採用とし、アポロンを採用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;アリア
+&lt;ul&gt;
+&lt;li&gt;アリア単体だとゲームに勝たないと思っている。
+&lt;ul&gt;
+&lt;li&gt;正確には、処理と回復が両立する対面には勝てない&lt;/li&gt;
+&lt;li&gt;アリアは処理と回復が両立しないデッキに対するメタカードという評価&lt;/li&gt;
+&lt;li&gt;→採用枚数を落とす&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;聖樹のドローも起動しないので、リノセウスを探しに行く動きと両立しない
+&lt;ul&gt;
+&lt;li&gt;リノセウスを引いてる時は強いけど、引いてない時弱い&lt;/li&gt;
+&lt;li&gt;リノセウス引いてるならアリアなくても勝てると思っている&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ゲームプラン&#34;&gt;ゲームプラン&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;聖樹の杖を置けるかどうかでリソースの安定感が変わる
+&lt;ul&gt;
+&lt;li&gt;マリガンは聖樹全力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;回復カードがあまり無いので、常に盤面を処理し続けることを意識&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;先4に相手の盤面を放置して顔進化をもらう、とかはあまり好ましくない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;9ppに18点くらい出して勝つデッキ。
+&lt;ul&gt;
+&lt;li&gt;OTKは10ppまでいかないとなかなか出ない&lt;/li&gt;
+&lt;li&gt;→10tをもらえないデッキに対しては、道中のちょい削りを意識。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;カバン超進化リノリーサルのテンプレ形&#34;&gt;カバン超進化リノリーサルのテンプレ形&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;20250618171434.png&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;画像は、エクストラpp込み9pp18点&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;必要パーツ&#34;&gt;必要パーツ&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;聖樹の杖（事前設置）&lt;/li&gt;
+&lt;li&gt;リノセウス1枚&lt;/li&gt;
+&lt;li&gt;カバン1枚&lt;/li&gt;
+&lt;li&gt;0cカード2枚（ベイル、森の神秘）&lt;/li&gt;
+&lt;li&gt;1cカード4枚くらい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;プレイ手順&#34;&gt;プレイ手順&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;フェアリー、カバン超進化
+&lt;ul&gt;
+&lt;li&gt;→0c2枚と1c3枚をプレイして残り6pp&lt;/li&gt;
+&lt;li&gt;リノ、聖樹アクト、リノ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;→リノが8+9点、カバン超進化で1点、計18点&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;10ppもしくは0c3枚で20点が出せる！&lt;/li&gt;
+&lt;li&gt;基本は20点でないので、道中で相手のライフをちょい削りしておくのが重要&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;良い点&#34;&gt;良い点&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;リノセウスが1枚でも良い
+&lt;ul&gt;
+&lt;li&gt;聖樹を設置できていない時は、リノセウス2枚目で代用できる&lt;/li&gt;
+&lt;li&gt;リノセウス2枚目を雑に走らせて、相手のライフを減らしておく&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;注意事項&#34;&gt;注意事項&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;カバンの殴り先がいないと1点減る&lt;/li&gt;
+&lt;li&gt;フェアリーの当て先がいないと盤面が足りない
+&lt;ul&gt;
+&lt;li&gt;=リノセウスの打点が落ちる&lt;/li&gt;
+&lt;li&gt;プレイできないフェアリー1枚につき2点減る&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;対面ごと&#34;&gt;対面ごと&lt;/h3&gt;
+&lt;h4 id=&#34;afnm対面&#34;&gt;AFNm対面&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;この対面は相手の物量を捌き切りながらこちらのリノリーサルを整える必要があり、&lt;strong&gt;手札の使い方・残し方が大切&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Ωを投げられた返しのターンには絶対勝ちたい
+&lt;ul&gt;
+&lt;li&gt;Ωを処理だけしても大体ライフが足りない&lt;/li&gt;
+&lt;li&gt;SEPさえ残っていれば、Ωの突破自体は楽&lt;/li&gt;
+&lt;li&gt;適切にカードと進化権を残しておけば大丈夫&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ララミア超進化の4面展開に対して備えておく
+&lt;ul&gt;
+&lt;li&gt;全処理自体はできることが多いが、&lt;strong&gt;次のリーサル用のカードまで消費してしまわないように注意する&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;特に相手が後攻の場合、後8ララミア超進化→後9Ω　と連打する動きが強い
+&lt;ul&gt;
+&lt;li&gt;エクストラppの有無に注意
+&lt;ul&gt;
+&lt;li&gt;エクストラppがないなら、適当に捌いてこちらの10ppOTKが間に合う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;こちらから顔を削った分だけ、相手にγのコピーを要求できて主導権を握りやすい。&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;βや守護の枚数を減らせるので、猶予ターンが増える&lt;/li&gt;
+&lt;li&gt;回復されなければそのままリーサルを取れば良い&lt;/li&gt;
+&lt;li&gt;→自分のリーサルコンボを崩さない範囲で積極的に顔を殴ろう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;採用カード候補を考える&#34;&gt;採用カード候補を考える&lt;/h3&gt;
+&lt;h4 id=&#34;どのような性質を持つカードが欲しいかを考える&#34;&gt;どのような性質を持つカードが欲しいか？　を考える&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;後引きのゲイルを下げられるカード
+&lt;ul&gt;
+&lt;li&gt;ゲイルのコストを下げるためにフェアリーを大量放出するとリーサル用のフェアリーがいなくなってしまう問題がある&lt;/li&gt;
+&lt;li&gt;→アリアは1枚でゲイルを4c下げられるので優秀&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;先3聖樹置いた後に先4で相手の盤面を処理できるカード
+&lt;ul&gt;
+&lt;li&gt;メイがあれば余裕だが無い時、顔進化とかもらってちょっと苦しくなる&lt;/li&gt;
+&lt;li&gt;庭+フェアフェア、フェアフェア舞い踊る妖精、などで触れるバリエーションを増やしたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;聖樹を引きに行けるカード
+&lt;ul&gt;
+&lt;li&gt;2tにドローできるカード
+&lt;ul&gt;
+&lt;li&gt;ルビィ、ベルエン&lt;/li&gt;
+&lt;li&gt;後攻は2tに聖樹を置きたいので、先攻前提&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;聖樹を置いた後に強いカード
+&lt;ul&gt;
+&lt;li&gt;意外と手札がパンパンになることもある
+&lt;ul&gt;
+&lt;li&gt;少ないコストで手札を減らせるカードが偉い&lt;/li&gt;
+&lt;li&gt;→繚乱の庭＜ストレイビーストマン&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;3.と4.が相反する性質になりがちで、採用カードが難しい。&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Memo - 伝説の幕開け環境に関するあれこれ</title>
+      <link>https://wagasode.github.io/myHugo/per.%E4%BC%9D%E8%AA%AC%E3%81%AE%E5%B9%95%E9%96%8B%E3%81%91%E7%92%B0%E5%A2%83%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%82%E3%82%8C%E3%81%93%E3%82%8C/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E4%BC%9D%E8%AA%AC%E3%81%AE%E5%B9%95%E9%96%8B%E3%81%91%E7%92%B0%E5%A2%83%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%82%E3%82%8C%E3%81%93%E3%82%8C/</guid>
+      <description>&lt;h3 id=&#34;デッキごと&#34;&gt;デッキごと&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%82%A8%E3%83%AB%E3%83%95%E8%80%83%E5%AF%9F/&#34; class=&#34;custom-link&#34;&gt;Memo - リノエルフ考察&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;雑多&#34;&gt;雑多&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E9%9D%A2%E7%99%BD%E3%81%9D%E3%81%86%E3%81%AA%E3%82%B3%E3%83%B3%E3%83%9C%E3%82%84%E5%8B%95%E3%81%8D/&#34; class=&#34;custom-link&#34;&gt;Memo - 面白そうなコンボや動き&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.2%E3%83%87%E3%83%83%E3%82%ADbo1%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%80%83%E5%AF%9F/&#34; class=&#34;custom-link&#34;&gt;Memo - 2デッキBO1に関する考察&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;リリース前に考えてたこと&#34;&gt;リリース前に考えてたこと&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E4%BC%9D%E8%AA%AC%E3%81%AE%E5%B9%95%E9%96%8B%E3%81%91%E6%96%B0%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%80%83%E5%AF%9F/&#34; class=&#34;custom-link&#34;&gt;Memo - 伝説の幕開け新カードに関する考察&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.0612%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E7%9B%B4%E5%89%8D%E5%85%AC%E5%BC%8F%E9%85%8D%E4%BF%A1%E8%A6%96%E8%81%B4%E6%84%9F%E6%83%B3/&#34; class=&#34;custom-link&#34;&gt;Ref - 0612リリース直前公式配信視聴感想&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E3%83%93%E3%83%A8%E3%83%B3%E3%83%89%E3%81%A7%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/&#34; class=&#34;custom-link&#34;&gt;Memo - ビヨンドでの新しいゲームシステム&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E3%83%93%E3%83%A8%E3%83%B3%E3%83%89%E3%81%A7%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8/&#34; class=&#34;custom-link&#34;&gt;Memo - ビヨンドで気をつけたいと思っていること&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Memo - 面白そうなコンボや動き</title>
       <link>https://wagasode.github.io/myHugo/per.%E9%9D%A2%E7%99%BD%E3%81%9D%E3%81%86%E3%81%AA%E3%82%B3%E3%83%B3%E3%83%9C%E3%82%84%E5%8B%95%E3%81%8D/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://wagasode.github.io/myHugo/per.%E9%9D%A2%E7%99%BD%E3%81%9D%E3%81%86%E3%81%AA%E3%82%B3%E3%83%B3%E3%83%9C%E3%82%84%E5%8B%95%E3%81%8D/</guid>
-      <description>&lt;ul&gt;
+      <description>&lt;h4 id=&#34;エルフ&#34;&gt;エルフ&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;リノセウスのフィニッシュ力が凄い&lt;/li&gt;
+&lt;li&gt;テンポで攻めてリノで〆る&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ロイヤル&#34;&gt;ロイヤル&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;毎ターンムササビ進化顔をするフェイスR&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ウィッチ&#34;&gt;ウィッチ&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;アングレア脇にブレデスを添えて最強盤面展開&lt;/li&gt;
 &lt;li&gt;サタン超進化+オーバーディメンション+アスタロトでOTK
 &lt;ul&gt;
 &lt;li&gt;盤面空でケア可能&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ドラゴン&#34;&gt;ドラゴン&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;バーンドナイト+サタンアスタロトでOTK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ナイトメア&#34;&gt;ナイトメア&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;墓地アクト+ケルベロス超進化で9~13点&lt;/li&gt;
+&lt;li&gt;バーンダメージ主体で攻めるバーンデッキ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ビショップ&#34;&gt;ビショップ&lt;/h4&gt;
+&lt;h4 id=&#34;ネメシス&#34;&gt;ネメシス&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ωを目指さずβを大量生産
+&lt;ul&gt;
+&lt;li&gt;→ララミアでβ3枚出して9点&lt;/li&gt;
+&lt;li&gt;バーン主体で削り切る&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ララミアで守護を出す選択肢&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
