@@ -9,37 +9,11 @@
     <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wagasode.github.io/myHugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Memo - リノエルフ考察</title>
-      <link>https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%82%A8%E3%83%AB%E3%83%95%E8%80%83%E5%AF%9F/</link>
+      <title>Memo - リノエルフの構築に関する考察</title>
+      <link>https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%82%A8%E3%83%AB%E3%83%95%E3%81%AE%E6%A7%8B%E7%AF%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%80%83%E5%AF%9F/</link>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%82%A8%E3%83%AB%E3%83%95%E8%80%83%E5%AF%9F/</guid>
-      <description>&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;リノセウスがめっちゃ打点を出す
-&lt;ul&gt;
-&lt;li&gt;聖樹の杖が0cバウンスで凄い！&lt;/li&gt;
-&lt;li&gt;OTKもできる&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;前に寄せるか後ろに寄せるかのカスタマイズがある
-&lt;ul&gt;
-&lt;li&gt;どの超進化フォロワーを採用するかが基準
-&lt;ul&gt;
-&lt;li&gt;アリア：テンポに寄せる型&lt;/li&gt;
-&lt;li&gt;カバン、オリヴィエ：コントロール・OTKに寄せる型&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;基本は、雑に殴って、7-8ppくらいで14点くらい出して〆る感じ
-&lt;ul&gt;
-&lt;li&gt;処理と回復多めのデッキに対してはOTKを狙う&lt;/li&gt;
-&lt;li&gt;バーンダメージでめっちゃ削ってくるデッキには、やられる前にやるスタンスで攻める&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;構築&#34;&gt;構築&lt;/h3&gt;
+      <guid>https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%82%A8%E3%83%AB%E3%83%95%E3%81%AE%E6%A7%8B%E7%AF%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%80%83%E5%AF%9F/</guid>
+      <description>&lt;h3 id=&#34;前寄せか後ろ寄せか&#34;&gt;前寄せか？　後ろ寄せか？&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;よく分からんコントロールデッキにリソース負けしたくない
 &lt;ul&gt;
@@ -63,7 +37,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;アリア
+&lt;li&gt;アリアは？
 &lt;ul&gt;
 &lt;li&gt;アリア単体だとゲームに勝たないと思っている。
 &lt;ul&gt;
@@ -82,6 +56,99 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
+&lt;h3 id=&#34;採用カード候補を考える&#34;&gt;採用カード候補を考える&lt;/h3&gt;
+&lt;h4 id=&#34;どのような性質を持つカードが欲しいかを考える&#34;&gt;どのような性質を持つカードが欲しいか？　を考える&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;後引きのゲイルを下げられるカード
+&lt;ul&gt;
+&lt;li&gt;ゲイルのコストを下げるためにフェアリーを大量放出するとリーサル用のフェアリーがいなくなってしまう問題がある&lt;/li&gt;
+&lt;li&gt;→アリアは1枚でゲイルを4c下げられるので優秀&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;先3聖樹置いた後に先4で相手の盤面を処理できるカード
+&lt;ul&gt;
+&lt;li&gt;メイがあれば余裕だが無い時、顔進化とかもらってちょっと苦しくなる&lt;/li&gt;
+&lt;li&gt;庭+フェアフェア、フェアフェア舞い踊る妖精、などで触れるバリエーションを増やしたい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;聖樹を引きに行けるカード
+&lt;ul&gt;
+&lt;li&gt;2tにドローできるカード
+&lt;ul&gt;
+&lt;li&gt;ルビィ、ベルエン&lt;/li&gt;
+&lt;li&gt;後攻は2tに聖樹を置きたいので、先攻前提&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;聖樹を全力マリガンしてもい序盤事故らないカード
+&lt;ul&gt;
+&lt;li&gt;2cカード&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;聖樹を置いた後に強いカード
+&lt;ul&gt;
+&lt;li&gt;意外と手札がパンパンになることもある
+&lt;ul&gt;
+&lt;li&gt;少ないコストで手札を減らせるカードが偉い&lt;/li&gt;
+&lt;li&gt;→繚乱の庭＜ストレイビーストマン&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;3.と4.が相反する性質になりがちで、採用カードが難しい&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Memo - リノエルフ考察</title>
+      <link>https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%82%A8%E3%83%AB%E3%83%95%E8%80%83%E5%AF%9F/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%82%A8%E3%83%AB%E3%83%95%E8%80%83%E5%AF%9F/</guid>
+      <description>&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;リノセウスがめっちゃ打点を出す
+&lt;ul&gt;
+&lt;li&gt;聖樹の杖が0cバウンスで凄い！&lt;/li&gt;
+&lt;li&gt;OTKもできる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;前に寄せるか後ろに寄せるかのカスタマイズがある
+&lt;ul&gt;
+&lt;li&gt;どの超進化フォロワーを採用するかが基準
+&lt;ul&gt;
+&lt;li&gt;アリア：テンポに寄せる型&lt;/li&gt;
+&lt;li&gt;カバン、オリヴィエ：コントロール・OTKに寄せる型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;基本は、雑に殴って、7-8ppくらいで14点くらい出して〆る感じ&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;処理と回復多めのデッキに対してはOTKを狙う&lt;/li&gt;
+&lt;li&gt;バーンダメージでめっちゃ削ってくるデッキに対しては、やられる前にやるスタンスで攻める&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;構築&#34;&gt;構築&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%82%A8%E3%83%AB%E3%83%95%E3%81%AE%E6%A7%8B%E7%AF%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%80%83%E5%AF%9F/&#34; class=&#34;custom-link&#34;&gt;Memo - リノエルフの構築に関する考察&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
 &lt;h3 id=&#34;ゲームプラン&#34;&gt;ゲームプラン&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;聖樹の杖を置けるかどうかでリソースの安定感が変わる
@@ -89,9 +156,9 @@
 &lt;li&gt;マリガンは聖樹全力&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;回復カードがあまり無いので、常に盤面を処理し続けることを意識&lt;/strong&gt;
+&lt;li&gt;&lt;strong&gt;回復カードがあまり無いので、常に盤面を処理し続けることを意識しよう&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;先4に相手の盤面を放置して顔進化をもらう、とかはあまり好ましくない&lt;/li&gt;
+&lt;li&gt;先4に相手の盤面を放置して顔進化を喰らうのはあまり好ましくない&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;9ppに18点くらい出して勝つデッキ。
@@ -101,8 +168,118 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h4 id=&#34;エクストラppの使い方&#34;&gt;エクストラppの使い方&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;1個目
+&lt;ul&gt;
+&lt;li&gt;ほとんどの場合、2ターン目に聖樹の杖をプレイするために使おう
+&lt;ul&gt;
+&lt;li&gt;3ターン目に3プレイできないハンドなら、テンポ優先&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;もしくは、4ターン目に遅れて引いた聖樹の杖を3+1+1で置くために使う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2個目
+&lt;ul&gt;
+&lt;li&gt;リノセウスリーサルの打点を増やすために使うのが理想
+&lt;ul&gt;
+&lt;li&gt;ただ、相手の盤面の対処のために使わされることもしばし。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;6ターン目にオリヴィエをプレイし、テンポを取るのも強い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;カバン超進化リノリーサルのテンプレ形&#34;&gt;カバン超進化リノリーサルのテンプレ形&lt;/h3&gt;
+&lt;h3 id=&#34;マリガン&#34;&gt;マリガン&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;聖樹の杖全力！&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;2枚目は先攻であっても持たない。&lt;/li&gt;
+&lt;li&gt;先3,4って置くのは盤面放置しすぎ。&lt;/li&gt;
+&lt;li&gt;盤面を出してこない相手に対しては持っていい説。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;聖樹の杖があれば、色々なカードを持つ
+&lt;ul&gt;
+&lt;li&gt;序盤のカード&lt;/li&gt;
+&lt;li&gt;ベイル&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;リノセウスは持たない
+&lt;ul&gt;
+&lt;li&gt;序盤弱いし、1枚で勝てるので&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;リーサルターンの打点計算&#34;&gt;リーサルターンの打点計算&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;どういう手札だったら何点出せるのかを素早く計算できるようになろう
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%AE%E3%81%82%E3%82%8C%E3%81%93%E3%82%8C/&#34; class=&#34;custom-link&#34;&gt;Memo - リノリーサルターンのあれこれ&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;対面ごと&#34;&gt;対面ごと&lt;/h3&gt;
+&lt;h4 id=&#34;afnm対面&#34;&gt;AFNm対面&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;相手の物量を捌きながら、こちらのリノリーサルを整える必要がある
+&lt;ul&gt;
+&lt;li&gt;→&lt;strong&gt;手札の使い方・残し方が大切&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ωを投げられた返しのターンには絶対勝ちたい
+&lt;ul&gt;
+&lt;li&gt;Ωを処理だけしても大体ライフが足りない&lt;/li&gt;
+&lt;li&gt;SEPさえ残っていれば、Ωの突破自体は楽&lt;/li&gt;
+&lt;li&gt;適切にカードと進化権を残しておけば大丈夫&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ララミア超進化の4面展開に対して備えておく
+&lt;ul&gt;
+&lt;li&gt;全処理自体はできることが多いが、&lt;strong&gt;次のリーサル用のカードまで消費してしまわないように注意する&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;特に相手が後攻の場合、後8ララミア超進化→後9Ω　と連打する動きが強い
+&lt;ul&gt;
+&lt;li&gt;エクストラppの有無に注意
+&lt;ul&gt;
+&lt;li&gt;エクストラppがないなら、適当に捌いてこちらの10ppOTKが間に合う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;こちらから顔を削った分だけ、相手にγのコピーを要求できて主導権を握りやすい。&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;βの枚数を減らせるので、猶予ターンが増える&lt;/li&gt;
+&lt;li&gt;回復されなければそのままリーサルを取れば良いだけ&lt;/li&gt;
+&lt;li&gt;→自分のリーサルコンボを崩さない範囲で積極的に顔を殴ろう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Memo - リノリーサルターンのあれこれ</title>
+      <link>https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%AE%E3%81%82%E3%82%8C%E3%81%93%E3%82%8C/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%AE%E3%81%82%E3%82%8C%E3%81%93%E3%82%8C/</guid>
+      <description>&lt;h3 id=&#34;カバン超進化を使う形のテンプレ形&#34;&gt;カバン超進化を使う形のテンプレ形&lt;/h3&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;20250618171434.png&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;画像は、エクストラpp込み9pp18点&lt;/strong&gt;&lt;/li&gt;
@@ -148,80 +325,6 @@
 &lt;li&gt;プレイできないフェアリー1枚につき2点減る&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;対面ごと&#34;&gt;対面ごと&lt;/h3&gt;
-&lt;h4 id=&#34;afnm対面&#34;&gt;AFNm対面&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;この対面は相手の物量を捌き切りながらこちらのリノリーサルを整える必要があり、&lt;strong&gt;手札の使い方・残し方が大切&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Ωを投げられた返しのターンには絶対勝ちたい
-&lt;ul&gt;
-&lt;li&gt;Ωを処理だけしても大体ライフが足りない&lt;/li&gt;
-&lt;li&gt;SEPさえ残っていれば、Ωの突破自体は楽&lt;/li&gt;
-&lt;li&gt;適切にカードと進化権を残しておけば大丈夫&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;ララミア超進化の4面展開に対して備えておく
-&lt;ul&gt;
-&lt;li&gt;全処理自体はできることが多いが、&lt;strong&gt;次のリーサル用のカードまで消費してしまわないように注意する&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;特に相手が後攻の場合、後8ララミア超進化→後9Ω　と連打する動きが強い
-&lt;ul&gt;
-&lt;li&gt;エクストラppの有無に注意
-&lt;ul&gt;
-&lt;li&gt;エクストラppがないなら、適当に捌いてこちらの10ppOTKが間に合う&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;こちらから顔を削った分だけ、相手にγのコピーを要求できて主導権を握りやすい。&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;βや守護の枚数を減らせるので、猶予ターンが増える&lt;/li&gt;
-&lt;li&gt;回復されなければそのままリーサルを取れば良い&lt;/li&gt;
-&lt;li&gt;→自分のリーサルコンボを崩さない範囲で積極的に顔を殴ろう&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;採用カード候補を考える&#34;&gt;採用カード候補を考える&lt;/h3&gt;
-&lt;h4 id=&#34;どのような性質を持つカードが欲しいかを考える&#34;&gt;どのような性質を持つカードが欲しいか？　を考える&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;後引きのゲイルを下げられるカード
-&lt;ul&gt;
-&lt;li&gt;ゲイルのコストを下げるためにフェアリーを大量放出するとリーサル用のフェアリーがいなくなってしまう問題がある&lt;/li&gt;
-&lt;li&gt;→アリアは1枚でゲイルを4c下げられるので優秀&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;先3聖樹置いた後に先4で相手の盤面を処理できるカード
-&lt;ul&gt;
-&lt;li&gt;メイがあれば余裕だが無い時、顔進化とかもらってちょっと苦しくなる&lt;/li&gt;
-&lt;li&gt;庭+フェアフェア、フェアフェア舞い踊る妖精、などで触れるバリエーションを増やしたい&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;聖樹を引きに行けるカード
-&lt;ul&gt;
-&lt;li&gt;2tにドローできるカード
-&lt;ul&gt;
-&lt;li&gt;ルビィ、ベルエン&lt;/li&gt;
-&lt;li&gt;後攻は2tに聖樹を置きたいので、先攻前提&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;聖樹を置いた後に強いカード
-&lt;ul&gt;
-&lt;li&gt;意外と手札がパンパンになることもある
-&lt;ul&gt;
-&lt;li&gt;少ないコストで手札を減らせるカードが偉い&lt;/li&gt;
-&lt;li&gt;→繚乱の庭＜ストレイビーストマン&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;3.と4.が相反する性質になりがちで、採用カードが難しい。&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
