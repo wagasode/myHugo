@@ -7,6 +7,7 @@ draft: false
 - {{< customref "リノエルフ考察" >}}
 ---
 ### 雑多
+- {{< customref "ランクマッチ環境考察" >}}
 - {{< customref "面白そうなコンボや動き" >}}
 - {{< customref "2デッキbo1に関する考察" >}}
 ---

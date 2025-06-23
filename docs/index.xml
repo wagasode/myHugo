@@ -6,8 +6,384 @@
     <description>Recent content on wagasode</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://wagasode.github.io/myHugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memo - カバンリノ-AFNm考察</title>
+      <link>https://wagasode.github.io/myHugo/per.%E3%82%AB%E3%83%90%E3%83%B3%E3%83%AA%E3%83%8Ee-afnm%E8%80%83%E5%AF%9F/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E3%82%AB%E3%83%90%E3%83%B3%E3%83%AA%E3%83%8Ee-afnm%E8%80%83%E5%AF%9F/</guid>
+      <description>&lt;h3 id=&#34;相性認識&#34;&gt;相性認識&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;0.6-0.4程度の有利&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;マリガン段階ではアグロプランは狙わず、分割リーサルプランを狙う。
+&lt;ul&gt;
+&lt;li&gt;コンボパーツさえ揃っていれば、7ターン目開始時に相手のライフが20でも問題なく勝てる場合が多い。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;リソースカードを引けなかった場合は仕方なくアグロプランを狙う
+&lt;ul&gt;
+&lt;li&gt;シルヴィアがあると4回復が重すぎて負けになる場合が多い。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;リノセウスを1枚しか引けなかった試合は仕方なくOTKプランを狙う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;何ターン目に勝つかを考える&#34;&gt;何ターン目に勝つか？を考える&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ωの返しに勝つことは基本的に難しい。
+&lt;ul&gt;
+&lt;li&gt;オーラ10/10を突破する方法がかなり少ない
+&lt;ul&gt;
+&lt;li&gt;仮に処理だけできてもリソースを大きく失うため実質負けになりやすい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;→Ωを投げられる前に勝つことが前提条件。
+&lt;ul&gt;
+&lt;li&gt;先攻9t&lt;/li&gt;
+&lt;li&gt;後攻9t&lt;/li&gt;
+&lt;li&gt;相手がエクストラppを使用した場合、先攻10t&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;8cカードの2枚目を受けることができるか？　を考える
+&lt;ul&gt;
+&lt;li&gt;8cカード1枚目の盤面を放置すると、8c2枚目でリーサルを取られるか？&lt;/li&gt;
+&lt;li&gt;オーキス2連打でライフが足りているか？&lt;/li&gt;
+&lt;li&gt;→8c2枚目を受けきれないライフ状況・手札状況においては、8c1枚目の返しに勝つことを計画する。
+&lt;ul&gt;
+&lt;li&gt;先攻8t&lt;/li&gt;
+&lt;li&gt;後攻8t&lt;/li&gt;
+&lt;li&gt;相手が後攻7tにエクストラppを使わなかった場合、先攻9t&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;まとめると、リーサルターンの設定としてよくあるのは以下。
+&lt;ul&gt;
+&lt;li&gt;先攻10t
+&lt;ul&gt;
+&lt;li&gt;相手が後攻7tにエクストラppを使用し8cを投げてきたが、うまく盤面処理することができた展開。&lt;/li&gt;
+&lt;li&gt;後攻10tのΩの前に勝つ。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;先攻9t
+&lt;ul&gt;
+&lt;li&gt;相手がエクストラppを使用していない展開。後攻9tのΩの前に勝つ。&lt;/li&gt;
+&lt;li&gt;相手がエクストラppを使用し後攻7,8tに連続で8cをプレイしてきて、2枚目の8cを処理できないパターン。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;先攻8t
+&lt;ul&gt;
+&lt;li&gt;相手がエクストラppを使用し後攻7tに8cをプレイしてきて、それを処理できないパターン。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;後攻9t
+&lt;ul&gt;
+&lt;li&gt;相手の先攻8tの8c1枚目を処理し、先攻9tの8c2枚目の返しにリーサルを取るパターン。&lt;/li&gt;
+&lt;li&gt;OTK狙うことが現実的。分割リーサルプランとOTKプランを天秤にかけて選択する。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;後攻8t
+&lt;ul&gt;
+&lt;li&gt;相手の先攻8tの8c1枚目を処理せず、そのまま勝つパターン&lt;/li&gt;
+&lt;li&gt;OTKを狙うことは現実的ではないので、7,8tでの分割リーサルを狙う。&lt;/li&gt;
+&lt;li&gt;シルヴィアの4回復貫通は想定したく、可能ならα2枚6回復や、キャッスル2面守護のような防御択にも対応できるようにしておきたい。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;8tより前に勝つターンを設定するのは、アグロプラン以外では非推奨。
+&lt;ul&gt;
+&lt;li&gt;分割リーサルプランでは、シルヴィアの4回復を貫通する24点分割リーサルを6,7tの13ppで組み立てることは要求値が高い。
+&lt;ul&gt;
+&lt;li&gt;手札的に行けそうな場合のみ実行してよい。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;アグロプランの場合は、リソースが少なくターンが伸びても打点量が増えない場合が多いため、回復を割り切ってリーサルを狙う方が期待勝率が高い。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;詳細&#34;&gt;詳細&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;8cカード（ララミア、オーキス）の2枚目までを全処理するのは、基本的に難しい。
+&lt;ul&gt;
+&lt;li&gt;1枚目の全処理くらいならできる
+&lt;ul&gt;
+&lt;li&gt;ライフが高ければ1枚目2-3面くらい処理してちょっと放置してもいい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2枚目となると、だいたい処理にリソース使わされすぎて、その後の自分のリーサルが取れなくなりがち。&lt;/li&gt;
+&lt;li&gt;8c2枚目を頑張って処理した返しにΩが降ってきて対処不能、ということになる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;→自分のライフ水準、手札の処理札や打点札の量と相談しつつ、&lt;strong&gt;8c1枚目の返しに勝つのか、8c2枚目の返しに勝つのか、どちらかを選ぶ&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;ライフが低く、8c2枚目をプレイされたらリーサルを取られる場合は、8c1枚目の返しに勝つ必要がある。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;→先攻は相手の後7, 8tの8c2連打が凶悪。先7キルもしくは盤面に対処しながらの先8-9キルを狙うことになる
+&lt;ul&gt;
+&lt;li&gt;逆に後攻は、相手の8cターンが遅く、こちらもエクストラppでリノリーサルラインが上がりやすいので、やりやすい。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;→おおむね後攻マッチ。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;基本的に中盤以降は盤面の主導権がNm側に渡ることを意識
+&lt;ul&gt;
+&lt;li&gt;相手の物量全てに付き合うのは無理だが、早めに盤面放置して分割リーサルを狙いに行くと、シルヴィア4回復やα2枚の6回復などに蓋をされる場合がある。&lt;/li&gt;
+&lt;li&gt;→相手の融合状況を観察し、αを作ったのかβ、γを作ったのかを確認する&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nm側はβ量産してバーンで詰め切るプランと、α量産して受け切るプランを選択してくる。&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;→E側はそれに合わせて、序盤〜中盤の殴りとバーンで削り切るのか、蓄えてOTKするのか、を判断する&lt;/li&gt;
+&lt;li&gt;序盤はよくわからないので、どちらのプランにも行けるようにぼちぼち殴って、ぼちぼち蓄えておくのが理想。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Nm側の7pp前に盤面を押し付ける動きが優秀
+&lt;ul&gt;
+&lt;li&gt;先6tもしくは後6t。
+&lt;ul&gt;
+&lt;li&gt;後6tにエクストラppを使ってオリヴィエ超進化するのは強力。
+&lt;ul&gt;
+&lt;li&gt;体力4以上が2面並ぶのでγの処理範囲を越えやすい。&lt;/li&gt;
+&lt;li&gt;盤面に残ったフェアリー顔超進化もできるしね。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;特に相手のEPが0の際は、シルヴィアに超進化権を切らせることで8cカードに2回超進化を切らせることを妨害できる。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ララミア超進化の4面展開に対する備え
+&lt;ul&gt;
+&lt;li&gt;こちらが攻めている展開では、α2枚+守護やα+守護2枚のような蓋をしてくることが多い
+&lt;ul&gt;
+&lt;li&gt;→守護突破札や追加打点が不足すると一気に逆転されることもある&lt;/li&gt;
+&lt;li&gt;序盤は無理せず蓄えたほうが対応力が高いと思う理由の一つ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;リソースさえあればララミア1枚目の4面を全処理することはまあまあできる。
+&lt;ul&gt;
+&lt;li&gt;全処理自体はできることが多いが、&lt;strong&gt;次のリーサル用のカードまで消費してしまわないように注意する&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;相手が後攻の場合、後8ララミア超進化→後9Ω　と連打する動きが凶悪
+&lt;ul&gt;
+&lt;li&gt;エクストラppの有無に注意
+&lt;ul&gt;
+&lt;li&gt;エクストラppがないなら、適当に捌いてこちらの10ppOTKが間に合う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Memo - カバンリノEのゲームプラン</title>
+      <link>https://wagasode.github.io/myHugo/per.%E3%82%AB%E3%83%90%E3%83%B3%E3%83%AA%E3%83%8Ee%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E3%82%AB%E3%83%90%E3%83%B3%E3%83%AA%E3%83%8Ee%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/</guid>
+      <description>&lt;h3 id=&#34;前提&#34;&gt;前提&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;リソースカードの有無によって安定感が変わる
+&lt;ul&gt;
+&lt;li&gt;マリガンは聖樹、バックウッド全力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;回復カードがあまり無いので、常に盤面を処理し続けることを意識しよう&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;先4tに相手の盤面を放置して顔進化を喰らうのはあまり好ましくない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ゲームプランは大きく3種類&#34;&gt;ゲームプランは大きく3種類&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;テンポプラン、分割リーサルプラン、OTKプランの3つを使い分ける。&lt;/li&gt;
+&lt;li&gt;①序盤アグロ→残り10~15点くらいをリノで〆る&lt;strong&gt;テンポプラン&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;積極的には狙わない
+&lt;ul&gt;
+&lt;li&gt;回復カードに弱く、割り切りが必要になることが多い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;マリガン段階で狙う対面はスペルWのみ&lt;/li&gt;
+&lt;li&gt;たまたま序盤の殴りが通り、かつリソースカードを引けなかった試合にて仕方なく狙う&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;②序盤リソース→7-9tあたりでリノを3回以上走り20点~25点くらい出す&lt;strong&gt;分割リーサルプラン&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;基本的にこれを狙うのが安定する。&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;回復カードに弱いアグロプランと異なり、回復カード込みで貫通リーサルを組めることが多い。&lt;/li&gt;
+&lt;li&gt;必要なリノセウスの枚数（=バウンスカードの枚数）が多いので、バウンスをどれくらい引けているかを意識しよう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;内訳としては7-8分割4割、8-9分割4割くらいの印象。
+&lt;ul&gt;
+&lt;li&gt;相手のデッキのリーサル速度を加味して9tをもらえるかどうかを考えてターンを決める。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;相手の回復量を加味して貫通・割り切りなどを組み立てる必要があるため対面知識が重要。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;③序盤リソース→0cを複数抱えつつ耐久し、9-10tにOTKする&lt;strong&gt;OTKプラン&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;テンポプランも分割リーサルプランも取れなかった際に仕方なく狙うプラン。&lt;/li&gt;
+&lt;li&gt;9ppでは0c3枚が必要なので、ベイル2枚引いてることが条件になりやすいが、逆にベイル2枚引けている試合は積極的に狙ってもいい。&lt;/li&gt;
+&lt;li&gt;一部のコントロールデッキに対してはマリガン段階からこれを狙う。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;エクストラppの使い方&#34;&gt;エクストラppの使い方&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1個目
+&lt;ul&gt;
+&lt;li&gt;バックウッドを4tにプレイするために使うことが多い
+&lt;ul&gt;
+&lt;li&gt;Nm対面の5/5がアルエットに対してγを要求できる。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;バックウッドがなければ、2ターン目に聖樹の杖をプレイすることを検討する
+&lt;ul&gt;
+&lt;li&gt;ただし3ターン目に3プレイできないハンドなら、2,3tはテンポムーブをして、4ターン目に1+1+聖樹と動こう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2個目
+&lt;ul&gt;
+&lt;li&gt;リノセウスリーサルの打点を増やすために使うのが理想
+&lt;ul&gt;
+&lt;li&gt;ただ、相手の盤面の対処のために使わされることもしばし。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;相手の盤面処理が有限な場合、エクストラppを使って4面展開するなども選択肢になりうる。
+&lt;ul&gt;
+&lt;li&gt;カーバンクル超進化、ベイルなどをプレイして、リーサルではなくパワースパイクを取りに行く動きが有力なこともある。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Memo - カバンリノEのマリガン</title>
+      <link>https://wagasode.github.io/myHugo/per.%E3%82%AB%E3%83%90%E3%83%B3%E3%83%AA%E3%83%8Ee%E3%81%AE%E3%83%9E%E3%83%AA%E3%82%AC%E3%83%B3/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E3%82%AB%E3%83%90%E3%83%B3%E3%83%AA%E3%83%8Ee%E3%81%AE%E3%83%9E%E3%83%AA%E3%82%AC%E3%83%B3/</guid>
+      <description>&lt;h3 id=&#34;マリガン&#34;&gt;マリガン&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;基本的にはリソースが最重要で、&lt;strong&gt;聖樹の杖とバックウッド全力。&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;両方来たら両方キープする&lt;/li&gt;
+&lt;li&gt;それぞれの2枚目は先攻であっても持たない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;聖樹の杖かバックウッドがあれば、色々なカードを持つ
+&lt;ul&gt;
+&lt;li&gt;序盤札（ウォーターフェアリー、招集のこと）&lt;/li&gt;
+&lt;li&gt;ベイル&lt;/li&gt;
+&lt;li&gt;ルビィやベルエンは弱いので持たない&lt;/li&gt;
+&lt;li&gt;序盤テンポ大事な対面ではメイを持つ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;序盤大事すぎるE、R対面はテンポに寄せる&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;リソースだけあっても序盤のテンポ放棄するとライフが足りないため、ある程度都合よくリソースが繋がることを期待する。&lt;/li&gt;
+&lt;li&gt;ウォーターフェアリー単キープ
+&lt;ul&gt;
+&lt;li&gt;スペルW対面も単キープしていい。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;聖樹は単キープしない
+&lt;ul&gt;
+&lt;li&gt;序盤札か、ルビィ+バックウッドがある場合はセットキープ可能&lt;/li&gt;
+&lt;li&gt;バックウッド+聖樹の場合は、聖樹を返してバックウッド単キープ（序盤札を探す）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;後攻で、聖樹+序盤札+リリィはセットキープ可能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;リノセウスは持たない
+&lt;ul&gt;
+&lt;li&gt;序盤弱いし、1枚あれば勝てることが多い&lt;/li&gt;
+&lt;li&gt;コントロール対面でバックウッドとのセットキープとかはあり。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Memo - ランクマッチ環境考察</title>
+      <link>https://wagasode.github.io/myHugo/per.%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%9E%E3%83%83%E3%83%81%E7%92%B0%E5%A2%83%E8%80%83%E5%AF%9F/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://wagasode.github.io/myHugo/per.%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%9E%E3%83%83%E3%83%81%E7%92%B0%E5%A2%83%E8%80%83%E5%AF%9F/</guid>
+      <description>&lt;h3 id=&#34;雑感&#34;&gt;雑感&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;母数としてはNm最多、時点でRW、その下にED。
+&lt;ul&gt;
+&lt;li&gt;NiBはほとんど当たらない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;デッキパワー評価は以下。
+&lt;ul&gt;
+&lt;li&gt;安定感の鬼：AFNm
+&lt;ul&gt;
+&lt;li&gt;人形Nmという別アーキもある。こちらはオーキス依存度が高く、どちらかというと爆発力デッキ。&lt;/li&gt;
+&lt;li&gt;人形AFというハイブリッド構築も開拓され始めており、動向を観察中。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;爆発力がある：EW&lt;/li&gt;
+&lt;li&gt;リストが幅広くて対面視点やりづらい：RD&lt;/li&gt;
+&lt;li&gt;よくわからない：NiB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;戦略&#34;&gt;戦略&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;前提としてその日ごとに流行デッキが変わることが多く、環境の見極めは大事&lt;/li&gt;
+&lt;li&gt;その上で、大まかな傾向として以下のように考える。
+&lt;ul&gt;
+&lt;li&gt;Nmに不利なデッキを使うのは悪手。&lt;/li&gt;
+&lt;li&gt;RWどちらかに不利でも、どちらかに有利なら使ってもいい。&lt;/li&gt;
+&lt;li&gt;EDは相手が事故で沈むことも、上振れてどうしようもなく轢かれることもあり、リストを寄せることはあまり考えなくていい。
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E3%83%A1%E3%82%BF%E3%82%8A%E7%94%B2%E6%96%90%E3%81%8C%E3%81%82%E3%82%8B%E3%83%87%E3%83%83%E3%82%AD%E3%81%AA%E3%81%84%E3%83%87%E3%83%83%E3%82%AD/&#34; class=&#34;custom-link&#34;&gt;Memo - メタり甲斐があるデッキないデッキ&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;基本は序盤のテンポを最重視し、リソースを繋がれたら仕方ないと割り切る方針が丸い。&lt;/li&gt;
+&lt;li&gt;相手の打点を受け切るのは難しいため、こちらから仕掛けて勝ち切る必要がある&lt;/li&gt;
+&lt;li&gt;相手の動きからハンド読みをする、打点を割り切って勝ちに行く、などを意識する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;NiBについては意識する必要があまりない
+&lt;ul&gt;
+&lt;li&gt;アグロとコントロールの両方が存在するため、どちらかにマリガンを寄せすぎるのはリスクがある。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Memo - 勝率目標を立てるとゲームが楽しくなくなる話</title>
       <link>https://wagasode.github.io/myHugo/per.%E5%8B%9D%E7%8E%87%E7%9B%AE%E6%A8%99%E3%82%92%E7%AB%8B%E3%81%A6%E3%82%8B%E3%81%A8%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%8C%E6%A5%BD%E3%81%97%E3%81%8F%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E8%A9%B1/</link>
@@ -259,28 +635,24 @@
 &lt;li&gt;リノセウスがめっちゃ打点を出す
 &lt;ul&gt;
 &lt;li&gt;聖樹の杖が0cバウンスで凄い！&lt;/li&gt;
-&lt;li&gt;OTKもできる&lt;/li&gt;
+&lt;li&gt;アグロもOTKもできて、プランの幅が広い&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;前に寄せるか後ろに寄せるかのカスタマイズがある
 &lt;ul&gt;
 &lt;li&gt;どの超進化フォロワーを採用するかが基準
 &lt;ul&gt;
-&lt;li&gt;アリア：テンポに寄せる型&lt;/li&gt;
-&lt;li&gt;カバン、オリヴィエ：コントロール・OTKに寄せる型&lt;/li&gt;
+&lt;li&gt;アリア、セルウィン：テンポに寄せる型&lt;/li&gt;
+&lt;li&gt;カーバンクル、オリヴィエ：コントロール・OTKに寄せる型&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;基本は、雑に殴って、7-8ppくらいで14点くらい出して〆る感じ&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;処理と回復多めのデッキに対してはOTKを狙う&lt;/li&gt;
-&lt;li&gt;バーンダメージでめっちゃ削ってくるデッキに対しては、やられる前にやるスタンスで攻める&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;構築&#34;&gt;構築&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;我袖は、カーバンクルを3枚採用した後ろ寄せ・コンボ寄せの構築を使用している。
 &lt;ul&gt;
 &lt;li&gt;
 
@@ -295,89 +667,42 @@
 
   &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E3%83%AA%E3%83%8E%E3%82%A8%E3%83%AB%E3%83%95%E3%81%AE%E6%A7%8B%E7%AF%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%80%83%E5%AF%9F/&#34; class=&#34;custom-link&#34;&gt;Memo - リノエルフの構築に関する考察&lt;/a&gt;
 &lt;/li&gt;
+&lt;li&gt;以下、カーバンクルを3枚採用したリストを「カバンリノE」と呼ぶ。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;ゲームプラン&#34;&gt;ゲームプラン&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;聖樹の杖を置けるかどうかでリソースの安定感が変わる
-&lt;ul&gt;
-&lt;li&gt;マリガンは聖樹全力（バックウッドも強いので持とう）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;回復カードがあまり無いので、常に盤面を処理し続けることを意識しよう&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;先4tに相手の盤面を放置して顔進化を喰らうのはあまり好ましくない&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;基本は分割を狙うけど、意外とOTKもできる
-&lt;ul&gt;
-&lt;li&gt;9ppに18点くらいは結構出せる&lt;/li&gt;
-&lt;li&gt;OTKは10ppまでいかないとなかなか出ない&lt;/li&gt;
-&lt;li&gt;→10tTをもらえないデッキに対しては、道中のちょい削りを意識。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;エクストラppの使い方&#34;&gt;エクストラppの使い方&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;1個目
-&lt;ul&gt;
-&lt;li&gt;バックウッドを4tにプレイするために使うことが多い
-&lt;ul&gt;
-&lt;li&gt;Nm対面の5/5がアルエットに対してγを要求できる。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;バックウッドがなければ、2ターン目に聖樹の杖をプレイすることを検討する
-&lt;ul&gt;
-&lt;li&gt;ただし3ターン目に3プレイできないハンドなら、2,3tはテンポムーブをして、4ターン目に1+1+聖樹と動こう&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;2個目
-&lt;ul&gt;
-&lt;li&gt;リノセウスリーサルの打点を増やすために使うのが理想
-&lt;ul&gt;
-&lt;li&gt;ただ、相手の盤面の対処のために使わされることもしばし。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;6ターン目にオリヴィエをプレイし、テンポを取るのも強い
-&lt;ul&gt;
-&lt;li&gt;7ppで強い行動がない対面にオリヴィエの盤面を押し付ける。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E3%82%AB%E3%83%90%E3%83%B3%E3%83%AA%E3%83%8Ee%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%83%B3/&#34; class=&#34;custom-link&#34;&gt;Memo - カバンリノEのゲームプラン&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;マリガン&#34;&gt;マリガン&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;聖樹の杖全力！&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;2枚目は先攻であっても持たない。
-&lt;ul&gt;
-&lt;li&gt;先3,4って置くのは盤面放置しすぎ。&lt;/li&gt;
-&lt;li&gt;盤面を出してこない相手に対しては持っていい説。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;バックウッドも持つ
-&lt;ul&gt;
-&lt;li&gt;こいつ1枚あるかどうかで安定感が段違い&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;聖樹の杖かバックウッドがあれば、色々なカードを持つ
-&lt;ul&gt;
-&lt;li&gt;序盤のカード&lt;/li&gt;
-&lt;li&gt;ベイル&lt;/li&gt;
-&lt;li&gt;フェアリーテイマーは、中盤以降弱すぎるという理由で単キープしても良い&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;リノセウスは持たない
-&lt;ul&gt;
-&lt;li&gt;序盤弱いし、1枚あれば勝てることが多い&lt;/li&gt;
-&lt;li&gt;コントロール対面で聖樹とのセットキープとかはありか&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E3%82%AB%E3%83%90%E3%83%B3%E3%83%AA%E3%83%8Ee%E3%81%AE%E3%83%9E%E3%83%AA%E3%82%AC%E3%83%B3/&#34; class=&#34;custom-link&#34;&gt;Memo - カバンリノEのマリガン&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -403,80 +728,17 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;対面ごと&#34;&gt;対面ごと&lt;/h3&gt;
-&lt;h4 id=&#34;afnm対面&#34;&gt;AFNm対面&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;8cカード（ララミア、オーキス）の2枚目までを全処理するのは、基本的に難しい。
-&lt;ul&gt;
-&lt;li&gt;1枚目の全処理くらいならできる
-&lt;ul&gt;
-&lt;li&gt;ライフが高ければ1枚目2-3面くらい処理してちょっと放置してもいい&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E3%82%AB%E3%83%90%E3%83%B3%E3%83%AA%E3%83%8Ee-afnm%E8%80%83%E5%AF%9F/&#34; class=&#34;custom-link&#34;&gt;AFNm対面&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;2枚目となると、だいたい処理にリソース使わされすぎて、その後の自分のリーサルが取れなくなりがち。&lt;/li&gt;
-&lt;li&gt;8c2枚目を頑張って処理した返しにΩが降ってきて対処不能、ということになる&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;→自分のライフ水準、手札の処理札や打点札の量と相談しつつ、&lt;strong&gt;8c1枚目の返しに勝つのか、8c2枚目の返しに勝つのか、どちらかを選ぶ&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;ライフが低く、8c2枚目をプレイされたらリーサルを取られる場合は、8c1枚目の返しに勝つ必要がある。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;→先攻は相手の後7, 8tの8c2連打が凶悪。先7キルもしくは盤面に対処しながらの先8-9キルを狙うことになる
-&lt;ul&gt;
-&lt;li&gt;逆に後攻は、相手の8cターンが遅く、こちらもエクストラppでリノリーサルラインが上がりやすいので、やりやすい。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;→おおむね後攻マッチ。&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;基本的に中盤以降は盤面の主導権がNm側に渡ることを意識
-&lt;ul&gt;
-&lt;li&gt;相手の物量全てに付き合うのは無理だが、早めに盤面放置して分割リーサルを狙いに行くと、シルヴィア4回復やα2枚の6回復などに蓋をされる場合がある。&lt;/li&gt;
-&lt;li&gt;→相手の融合状況を観察し、αを作ったのかβ、γを作ったのかを確認する&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Nm側はβ量産してバーンで詰め切るプランと、α量産して受け切るプランを選択してくる。&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;→E側はそれに合わせて、序盤〜中盤の殴りとバーンで削り切るのか、蓄えてOTKするのか、を判断する&lt;/li&gt;
-&lt;li&gt;序盤はよくわからないので、どちらのプランにも行けるようにぼちぼち殴って、ぼちぼち蓄えておくのが理想。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Nm側の7pp前に盤面を押し付ける動きが優秀
-&lt;ul&gt;
-&lt;li&gt;先6tもしくは後6t。
-&lt;ul&gt;
-&lt;li&gt;後6tにエクストラppを使ってオリヴィエ超進化するのは強力。
-&lt;ul&gt;
-&lt;li&gt;体力4以上が2面並ぶのでγの処理範囲を越えやすい。&lt;/li&gt;
-&lt;li&gt;盤面に残ったフェアリー顔超進化もできるしね。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;特に相手のEPが0の際は、シルヴィアに超進化権を切らせることで8cカードに2回超進化を切らせることを妨害できる。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;ララミア超進化の4面展開に対する備え
-&lt;ul&gt;
-&lt;li&gt;こちらが攻めている展開では、α2枚+守護やα+守護2枚のような蓋をしてくることが多い
-&lt;ul&gt;
-&lt;li&gt;→守護突破札や追加打点が不足すると一気に逆転されることもある&lt;/li&gt;
-&lt;li&gt;序盤は無理せず蓄えたほうが対応力が高いと思う理由の一つ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;リソースさえあればララミア1枚目の4面を全処理することはまあまあできる。
-&lt;ul&gt;
-&lt;li&gt;全処理自体はできることが多いが、&lt;strong&gt;次のリーサル用のカードまで消費してしまわないように注意する&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;相手が後攻の場合、後8ララミア超進化→後9Ω　と連打する動きが凶悪
-&lt;ul&gt;
-&lt;li&gt;エクストラppの有無に注意
-&lt;ul&gt;
-&lt;li&gt;エクストラppがないなら、適当に捌いてこちらの10ppOTKが間に合う&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;</description>
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Memo - リノリーサルターンのあれこれ</title>
@@ -661,6 +923,19 @@
 
 
 
+  &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%9E%E3%83%83%E3%83%81%E7%92%B0%E5%A2%83%E8%80%83%E5%AF%9F/&#34; class=&#34;custom-link&#34;&gt;Memo - ランクマッチ環境考察&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+  
+    
+  
+
+
+
   &lt;a href=&#34;https://wagasode.github.io/myHugo/per.%E9%9D%A2%E7%99%BD%E3%81%9D%E3%81%86%E3%81%AA%E3%82%B3%E3%83%B3%E3%83%9C%E3%82%84%E5%8B%95%E3%81%8D/&#34; class=&#34;custom-link&#34;&gt;Memo - 面白そうなコンボや動き&lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -776,6 +1051,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;ララミアで守護を出す選択肢&lt;/li&gt;
+&lt;li&gt;人形とAFのハイブリッド&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
@@ -2068,7 +2344,7 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;アトミックにすることのメリットは&#34;&gt;アトミックにすることのメリットは？&lt;/h3&gt;
-&lt;h4 id=&#34;文章をアトミックにするという作業を通して理解が深まる思考やアイディがを広げられる&#34;&gt;文章をアトミックにする、という作業を通して理解が深まる/思考やアイディがを広げられる&lt;/h4&gt;
+&lt;h4 id=&#34;文章をアトミックにするという作業を通して理解が深まる思考やアイディアを広げられる&#34;&gt;文章をアトミックにする、という作業を通して理解が深まる/思考やアイディアを広げられる&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;書いた文章を分解するためには、物事を俯瞰する必要がある&lt;/li&gt;
 &lt;li&gt;重要なこととそうでないことを見極め、本質を抜き出す必要がある&lt;/li&gt;
